@@ -6,8 +6,11 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
+use Tymon\JWTAuth\Contracts\JWTSubject;
+use Filament\Models\Contracts\HasAvatar;
+use Illuminate\Support\Facades\Storage;
 
-class User extends Authenticatable
+class User extends Authenticatable implements HasAvatar, JWTSubject 
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
     use HasFactory, Notifiable;
@@ -21,6 +24,8 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'role',
+        'avatar_url',
     ];
 
     /**
@@ -45,4 +50,35 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+
+    // Mengimplementasikan metode dari kontrak JWTSubject
+    public function getJWTIdentifier()
+    {
+        // Biasanya, ini akan mengembalikan ID pengguna
+        return $this->getKey();
+    }
+
+    public function getJWTCustomClaims()
+    {
+        // Biasanya, Anda bisa menambahkan klaim khusus yang ingin dimasukkan ke dalam token JWT
+        return [];
+    }    
+
+    public function getFilamentAvatarUrl(): ?string
+    {
+        return $this->avatar_url ? Storage::url("$this->avatar_url") : null;
+    }
+    
+    // Mengatur nilai default untuk avatar_url
+    public static function boot()
+    {
+        parent::boot();
+
+        static::creating(function ($user) {
+            // Set avatar_url dengan default jika tidak ada nilai
+            if (empty($user->avatar_url)) {
+                $user->avatar_url = 'avatars/default.jpg';
+            }
+        });
+    }    
 }
