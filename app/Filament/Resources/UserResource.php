@@ -32,8 +32,26 @@ class UserResource extends Resource
     
     public static function getNavigationBadge(): ?string
     {
-        return User::count();
-    }    
+        $user = auth::user();
+    
+        if (!$user) {
+            return null; // Pastikan user sudah login
+        }
+    
+        // Jika super_admin, hitung semua user
+        if ($user->role === 'super_admin') {
+            return User::count();
+        }
+    
+        // Jika admin, hitung user dengan role admin dan user
+        if ($user->role === 'admin') {
+            return User::whereIn('role', ['admin', 'user'])->count();
+        }
+    
+        // Jika role lain (misalnya user), kembalikan null
+        return null;
+    }
+       
 
     public static function form(Form $form): Form
     {
