@@ -58,7 +58,8 @@ class AuthApiController extends Controller
             'token' => $token,
             'name'  => $user->name,
             'email'  => $user->email,
-            'avatar_url'  => getenv('APP_URL') . '/storage/'  . $user->avatar_url,
+            'avatar_url'  => url('/storage/' . $user->avatar_url),
+            // 'avatar_url'  => getenv('APP_URL') . '/storage/'  . $user->avatar_url,
             'message' => 'Login berhasil',
         ], 200); 
     }
