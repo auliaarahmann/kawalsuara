@@ -20,6 +20,9 @@ return new class extends Migration
 
             $table->foreign('kecamatan_id')->references('id')->on('kecamatans')->onDelete('cascade');
             $table->foreign('kelurahan_id')->references('id')->on('kelurahans')->onDelete('cascade');
+
+            // Tambahkan constraint unik untuk kombinasi tiga kolom
+            $table->unique(['kecamatan_id', 'kelurahan_id', 'nama_tps'], 'unique_tps_combination');
         });
     }
 

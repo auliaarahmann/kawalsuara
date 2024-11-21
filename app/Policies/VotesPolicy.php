@@ -13,7 +13,7 @@ class VotesPolicy
      */
     public function viewAny(User $user): bool
     {
-        return true;
+        return $user->role == 'super_admin' || $user->role == 'admin' || $user->role == 'operator' || $user->role == 'saksi';
     }
 
     /**
@@ -29,7 +29,7 @@ class VotesPolicy
      */
     public function create(User $user): bool
     {
-        return $user->role == 'super_admin';
+        return $user->role == 'super_admin' || $user->role == 'saksi';
     }
 
     /**

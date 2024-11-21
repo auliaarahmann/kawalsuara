@@ -19,6 +19,12 @@ class VotesChart extends ChartWidget
         return 'Data perolehan suara yang telah terverifikasi sesuai Foto C1 Plano.';
     }    
 
+    public static function canView(): bool
+    {
+        // Role 'saksi' tidak menampilkan widget
+        return auth()->user()->role !== 'saksi';
+    }    
+
     protected function getData(): array
     {
         // Menghitung total suara masing-masing paslon

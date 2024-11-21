@@ -13,14 +13,14 @@ class CreateVote extends CreateRecordAndRedirectToIndex
 {
     protected static string $resource = VoteResource::class;
 
-    protected function getRedirectUrl(): string
+    protected function getCreatedNotificationTitle(): ?string
     {
-        return $this->getResource()::getUrl('index');
-    }
+        return 'Data berhasil dikirim.';
+    } 
 
     public function getTitle(): string|Htmlable
     {
-        return 'Tambah Data Perolehan Suara';
+        return 'Kirim Data Perolehan Suara';
     }
 
     protected function onValidationError(ValidationException $exception): void
@@ -30,5 +30,19 @@ class CreateVote extends CreateRecordAndRedirectToIndex
             ->danger()
             ->send();
     }    
+
+    protected function getFormActions(): array
+    {
+        return [
+            $this->getCreateFormAction()
+                ->label('Kirim Data')
+                ->icon('heroicon-o-paper-airplane'),
+                ];
+    }   
+    
+    protected function getRedirectUrl(): string
+        {
+            return $this->getUrl(['/']);
+        }        
 
 }

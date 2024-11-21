@@ -20,6 +20,9 @@ use App\Filament\Resources\TpsResource\Pages;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
 use App\Filament\Resources\TpsResource\RelationManagers;
 use Filament\Forms\Set;
+use Illuminate\Validation\Rule;
+use Illuminate\Validation\ValidationException;
+use Filament\Notifications\Notification;
 
 class TpsResource extends Resource
 {
@@ -41,6 +44,14 @@ class TpsResource extends Resource
     public static function getNavigationBadge(): ?string
     {
         return Tps::count();
+    }    
+
+    protected function onValidationError(ValidationException $exception): void
+    {
+        Notification::make()
+            ->title($exception->getMessage())
+            ->danger()
+            ->send();
     }    
 
     public static function form(Form $form): Form
@@ -73,19 +84,28 @@ class TpsResource extends Resource
                     ->preload()
                     ->searchable(),                
 
-                TextInput::make('nama_tps')
+                    TextInput::make('nama_tps')
                     ->label('Nama TPS')
                     ->prefix('TPS')
                     ->required()
                     ->numeric()
-                    ->minValue(0)
-                    ->rules(['integer', 'min:0'])
-                    ->helperText('Isian hanya berupa angka satu digit, contoh: 1 atau 2, dst.')
                     ->disabledOn('edit')
-                    ->unique(ignoreRecord: true)
-                        ->validationMessages([
-                            'unique' => 'Data untuk TPS ini sudah ada.',
-                        ]),
+                    ->minValue(1)
+                    // ->rules([
+                    //     'integer',
+                    //     'min:0',
+                    //     Rule::unique('tps')->where(function ($query) {
+                    //         return $query
+                    //             ->where('kecamatan_id', request('kecamatan_id'))
+                    //             ->where('kelurahan_id', request('kelurahan_id'))
+                    //             ->where('nama_tps', request('nama_tps')); // Menambahkan validasi pada nama_tps
+                    //     })
+                    // ])
+                    ->helperText('Isian hanya berupa angka satu digit, contoh: 1 atau 2, dst.')
+                    ->validationMessages([
+                        'unique' => 'Data TPS ini sudah ada di kecamatan dan kelurahan yang dipilih. Silakan pilih TPS lain.',
+                    ]),
+                    
             ]);
     }
 

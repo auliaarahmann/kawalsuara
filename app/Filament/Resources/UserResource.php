@@ -45,7 +45,7 @@ class UserResource extends Resource
     
         // Jika admin, hitung user dengan role admin dan user
         if ($user->role === 'admin') {
-            return User::whereIn('role', ['admin', 'user'])->count();
+            return User::whereIn('role', ['admin', 'operator', 'saksi'])->count();
         }
     
         // Jika role lain (misalnya user), kembalikan null
@@ -69,7 +69,7 @@ class UserResource extends Resource
 
                 Forms\Components\Select::make('role')
                 ->native(false)
-                ->default('user')
+                ->default('saksi')
                 ->options(function () {
                     /**
                      * Batasi role yang bisa dipilih berdasarkan level user
@@ -78,14 +78,16 @@ class UserResource extends Resource
                     $user = Auth::user();            
                     if ($user->role === 'admin') {
                         return [
-                            'admin' => 'Admin',
-                            'user' => 'User',
+                            'admin'       => 'Admin',
+                            'operator'    => 'Operator',
+                            'saksi'       => 'Saksi',
                         ];
                     }            
                         return [
                             'super_admin' => 'Super Admin',
-                            'admin' => 'Admin',
-                            'user' => 'User',
+                            'admin'       => 'Admin',
+                            'operator'    => 'Operator',
+                            'saksi'       => 'Saksi',
                         ];
                 }),
                                 
@@ -136,7 +138,7 @@ class UserResource extends Resource
         $user = $user = Auth::user();
         
         if ($user->role === 'admin') {
-            $query->whereIn('role', ['admin', 'user']);
+            $query->whereIn('role', ['admin', 'operator', 'saksi']);
         }
 
         return $query;

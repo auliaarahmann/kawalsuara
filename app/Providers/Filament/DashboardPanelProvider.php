@@ -2,7 +2,6 @@
 
 namespace App\Providers\Filament;
 
-use App\Filament\Widgets\VotesChart;
 use Filament\Http\Middleware\Authenticate;
 use Filament\Http\Middleware\DisableBladeIconComponents;
 use Filament\Http\Middleware\DispatchServingFilamentEvent;
@@ -10,8 +9,8 @@ use Filament\Pages;
 use Filament\Panel;
 use Filament\PanelProvider;
 use Filament\Support\Colors\Color;
-use Filament\Widgets;
 use Filament\Navigation\MenuItem;
+use Filament\Navigation\NavigationItem;
 use Joaopaulolndev\FilamentEditProfile\Pages\EditProfilePage;
 use Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse;
 use Illuminate\Cookie\Middleware\EncryptCookies;
@@ -20,12 +19,8 @@ use Illuminate\Routing\Middleware\SubstituteBindings;
 use Illuminate\Session\Middleware\AuthenticateSession;
 use Illuminate\Session\Middleware\StartSession;
 use Illuminate\View\Middleware\ShareErrorsFromSession;
-use Filament\Navigation\NavigationGroup;
-use App\Filament\Pages\Settings;
-use App\Filament\Resources\UserResource\Pages\EditUser;
 use Rupadana\ApiService\ApiServicePlugin;
 use Joaopaulolndev\FilamentEditProfile\FilamentEditProfilePlugin;
- 
 
 class DashboardPanelProvider extends PanelProvider
 {
@@ -95,5 +90,15 @@ class DashboardPanelProvider extends PanelProvider
             ->authMiddleware([
                 Authenticate::class,
             ]);
+            // ->navigationItems([
+            //     NavigationItem::make('Kirim Data')
+            //         // ->visible(fn(): bool => auth()->users()->role('saksi'))
+            //         ->url('dashboard/data-perolehan-suara/create', shouldOpenInNewTab: true)
+            //         ->icon('heroicon-o-paper-airplane')
+            //         // ->group('Reports')
+            //         // ->sort(3), //presentation-chart-line
+            //     // ...
+            // ]);
+
     }
 }

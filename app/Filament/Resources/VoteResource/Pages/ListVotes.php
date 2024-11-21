@@ -17,7 +17,7 @@ class ListVotes extends ListRecords
     {
         return [
             Actions\CreateAction::make()
-                ->label('Buat Data Baru')
+                ->label('Tambah Data Perolehan Suara')
                 ->icon('heroicon-o-folder-plus'),
         ];
     }

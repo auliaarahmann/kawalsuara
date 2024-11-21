@@ -3,43 +3,25 @@
 namespace App\Filament\Resources;
 
 use App\Models\Tps;
-use Filament\Forms;
 use Filament\Tables;
 use App\Models\Votes;
 use Filament\Forms\Get;
 use Filament\Forms\Form;
-use App\Models\Kecamatan;
 use App\Models\Kelurahan;
 use Filament\Tables\Table;
 use Filament\Resources\Resource;
 use Filament\Actions\StaticAction;
 use Illuminate\Support\Collection;
-use Filament\Forms\Components\Grid;
 use Filament\Tables\Actions\Action;
 use Filament\Forms\Components\Select;
-use App\Filament\Imports\VoteImporter;
-use Filament\Forms\Components\Columns;
 use Filament\Forms\Components\Section;
-use Filament\Forms\Components\Fieldset;
-use Filament\Tables\Actions\EditAction;
 use Filament\Tables\Columns\TextColumn;
 use Filament\Forms\Components\TextInput;
-use Filament\Resources\Pages\EditRecord;
 use Filament\Tables\Columns\ImageColumn;
 use Filament\Forms\Components\FileUpload;
-use Illuminate\Database\Eloquent\Builder;
 use App\Filament\Resources\VoteResource\Pages;
-use Illuminate\Validation\ValidationException;
-use Illuminate\Database\Eloquent\SoftDeletingScope;
-use App\Filament\Resources\VoteResource\RelationManagers;
-use Filament\Forms\Components\Split;
-use Filament\Forms\Components\Textarea;
-use Filament\Forms\Components\Toggle;
+use Illuminate\Support\Facades\Auth;
 use Filament\Forms\Set;
-use GPBMetadata\Google\Api\Label;
-use Illuminate\Database\Eloquent\Factories\Relationship;
-
-use function PHPSTORM_META\type;
 
 class VoteResource extends Resource
 {
@@ -60,6 +42,9 @@ class VoteResource extends Resource
     
     public static function getNavigationBadge(): ?string
     {
+        if (Auth::user()->role == 'saksi') {
+            return null;
+        }
         return static::getModel()::where('status','unverified')->count();
     }    
 
@@ -127,6 +112,7 @@ class VoteResource extends Resource
                             ->required()
                             ->disk('public')
                             ->directory('formulir-c1')
+                            ->extraAttributes(['accept' => 'image/*', 'capture' => 'camera'])
                             ->visibleOn('create'),                        
 
                     ])->columns(3),    
@@ -167,22 +153,29 @@ class VoteResource extends Resource
 
     public static function table(Table $table): Table
     {
+        // Cek apakah user memiliki role saksi
+        $user = $user = Auth::user();
+
+        if ($user->role === 'saksi') {
+            return $table->columns([]); // Kosongkan kolom jika user adalah saksi
+        }
+    
         return $table
             ->columns([
                 ImageColumn::make('foto_c1_plano')
-                ->square()
-                ->label('C1 Plano')
-                ->action(
-                    Action::make('viewImage')
-                        ->modalCancelAction(fn (StaticAction $action) => $action->label('Close'))                    
-                        ->modalSubmitAction(false)
-                        ->modalHeading('Detail Image')
-                        ->modalWidth('2xl')
-                        ->modalContent(fn ($record) => view('filament.modals.image-modal', [
-                            'imageUrl' => asset('storage/' . $record->foto_c1_plano),
-                        ]))
-                ),          
-                    
+                    ->square()
+                    ->label('C1 Plano')
+                    ->action(
+                        Action::make('viewImage')
+                            ->modalCancelAction(fn (StaticAction $action) => $action->label('Close'))                    
+                            ->modalSubmitAction(false)
+                            ->modalHeading('Detail Image')
+                            ->modalWidth('2xl')
+                            ->modalContent(fn ($record) => view('filament.modals.image-modal', [
+                                'imageUrl' => asset('storage/' . $record->foto_c1_plano),
+                            ]))
+                    ),          
+    
                 TextColumn::make('status')
                     ->badge()
                     ->color(fn (string $state): string => match ($state) {
@@ -218,7 +211,8 @@ class VoteResource extends Resource
                 //
             ])
             ->actions([
-                Tables\Actions\EditAction::make(),
+                Tables\Actions\EditAction::make()
+                    ->label('Buka'),
             ])
             ->bulkActions([
                 Tables\Actions\BulkActionGroup::make([
@@ -226,6 +220,7 @@ class VoteResource extends Resource
                 ]),
             ]);
     }
+    
 
     public static function getRelations(): array
     {
@@ -239,6 +234,7 @@ class VoteResource extends Resource
         return [
             'index' => Pages\ListVotes::route('/'),
             'create' => Pages\CreateVote::route('/create'),
+            // 'create' => Pages\KirimDataForm::route('/create'),
             'edit' => Pages\EditVote::route('/{record}/edit'),
         ];
     }

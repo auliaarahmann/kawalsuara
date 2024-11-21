@@ -18,6 +18,12 @@ class StatsOverview extends BaseWidget
         'xl' => 4,
     ];
 
+    public static function canView(): bool
+    {
+        // Role 'saksi' tidak menampilkan widget
+        return auth()->user()->role !== 'saksi';
+    }
+
     protected function getStats(): array
     {
         return [
