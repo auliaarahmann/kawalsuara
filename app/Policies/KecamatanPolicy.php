@@ -29,7 +29,7 @@ class KecamatanPolicy
      */
     public function create(User $user): bool
     {
-        return true;
+        return $user->role == 'super_admin';
     }
 
     /**
@@ -37,7 +37,7 @@ class KecamatanPolicy
      */
     public function update(User $user, Kecamatan $kecamatan): bool
     {
-        return true;
+        return $user->role == 'super_admin';
     }
 
     /**
@@ -45,8 +45,13 @@ class KecamatanPolicy
      */
     public function delete(User $user, Kecamatan $kecamatan): bool
     {
-        return true;
+        return $user->role == 'super_admin';
     }
+
+    public function deleteAny(User $user): bool
+    {
+        return $user->role == 'super_admin';
+    }    
 
     /**
      * Determine whether the user can restore the model.

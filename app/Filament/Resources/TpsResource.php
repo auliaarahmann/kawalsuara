@@ -115,18 +115,14 @@ class TpsResource extends Resource
         ->columns([
             TextColumn::make('nama_tps')
             ->prefix('TPS00')
-            ->label('Nama TPS')
-            ->searchable(),
+            ->label('Nama TPS'),
 
             TextColumn::make('kecamatan.nama_kecamatan')
             ->label('Kecamatan')
-            ->sortable()
             ->searchable(),
 
             TextColumn::make('kelurahan.nama_kelurahan')
-            ->label('Kelurahan / Desa / Gampong')
-            ->sortable()
-            ->searchable(),
+            ->label('Kelurahan / Desa / Gampong'),
             ])
             ->filters([
                 //

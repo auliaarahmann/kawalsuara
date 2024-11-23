@@ -113,6 +113,20 @@ class UserResource extends Resource
                     ->searchable(),
                 Tables\Columns\TextColumn::make('role')
                     ->searchable(),
+                
+                /**
+                 * hanya tampil kolom crator name untuk user role "super_admin"                                                             
+                 */     
+               ...Auth::user()->role === 'super_admin'
+                    ? 
+                    [
+                    Tables\Columns\TextColumn::make('creator.name')
+                        ->label('Dibuat Oleh')
+                        ->searchable(),
+                    ]
+                    :
+                    []
+                    
             ])
             ->filters([
                 //

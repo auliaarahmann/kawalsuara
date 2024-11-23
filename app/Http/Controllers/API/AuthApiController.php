@@ -39,9 +39,9 @@ class AuthApiController extends Controller
         }
 
         $token = JWTAuth::fromUser($user, [
-            'name' => $user->name,
-            'email' => $user->email,
-            'avatar_url' => $user->avatar_url,
+            // 'name' => $user->name,
+            // 'email' => $user->email,
+            // 'avatar_url' => $user->avatar_url,
             // ... data lainnya
         ]);        
         // Tambahkan klaim custom (email) ke dalam payload JWT
@@ -56,6 +56,7 @@ class AuthApiController extends Controller
         return response()->json([
             'status' => true,
             'token' => $token,
+            'id' => $user->id,
             'name'  => $user->name,
             'email'  => $user->email,
             'avatar_url'  => url('/storage/' . $user->avatar_url),

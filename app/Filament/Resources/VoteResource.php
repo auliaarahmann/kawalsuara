@@ -39,14 +39,15 @@ class VoteResource extends Resource
 
     protected static ?string $navigationBadgeTooltip = 'Data belum diverifikasi';
 
-    
     public static function getNavigationBadge(): ?string
     {
-        if (Auth::user()->role == 'saksi') {
+        $user = auth::user();
+    
+        if ($user->role === 'saksi') {
             return null;
-        }
+        }                
         return static::getModel()::where('status','unverified')->count();
-    }    
+    } 
 
     public static function getNavigationBadgeColor(): ?string
     {
@@ -151,13 +152,14 @@ class VoteResource extends Resource
             ]);
     }
 
+    
     public static function table(Table $table): Table
     {
         // Cek apakah user memiliki role saksi
         $user = $user = Auth::user();
 
         if ($user->role === 'saksi') {
-            return $table->columns([]); // Kosongkan kolom jika user adalah saksi
+            return $table; // Kosongkan kolom jika user adalah saksi
         }
     
         return $table
@@ -182,14 +184,28 @@ class VoteResource extends Resource
                         'unverified' => 'warning',
                         'verified'   => 'success',
                     }),
-                TextColumn::make('user.name')
-                    ->Label('Verifikator')
+
+                /**
+                 * hanya tampil kolom crator name untuk user role "super_admin"                                                             
+                 */     
+                ...Auth::user()->role === 'super_admin' || Auth::user()->role === 'admin'
+                ? 
+                [
+                TextColumn::make('operator.name')
+                    ->Label('Operator')
                     ->placeholder('-'),    
-                TextColumn::make('updated_at')
+                TextColumn::make('verified_at')
                     ->Label('Diverifikasi')
                     ->since()
                     ->dateTimeTooltip()
                     ->placeholder('-'),   
+                TextColumn::make('saksi.name')
+                    ->Label('Saksi')
+                    ->placeholder('-'),
+                ]
+                :
+                [],                    
+    
                 TextColumn::make('kecamatan.nama_kecamatan')
                     ->label('Kecamatan'),
                 TextColumn::make('kelurahan.nama_kelurahan')
@@ -234,7 +250,6 @@ class VoteResource extends Resource
         return [
             'index' => Pages\ListVotes::route('/'),
             'create' => Pages\CreateVote::route('/create'),
-            // 'create' => Pages\KirimDataForm::route('/create'),
             'edit' => Pages\EditVote::route('/{record}/edit'),
         ];
     }

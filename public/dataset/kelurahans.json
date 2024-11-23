@@ -1,0 +1,3047 @@
+[
+  {
+    "id": 16244,
+    "nama_kelurahan": "Alue Leuhop (Alue Leuhob)",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16249,
+    "nama_kelurahan": "Arongan",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16253,
+    "nama_kelurahan": "Balee",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16257,
+    "nama_kelurahan": "Blang Kuta Coh",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16260,
+    "nama_kelurahan": "Blang Kuta Dua Meunasah",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16263,
+    "nama_kelurahan": "Blang Mane Barat",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16267,
+    "nama_kelurahan": "Blang Mane Dua Meunasah",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16270,
+    "nama_kelurahan": "Blang Payang (Blang Panyang)",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16274,
+    "nama_kelurahan": "Blang Tambue",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16278,
+    "nama_kelurahan": "Blang Teumulek",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16283,
+    "nama_kelurahan": "Calok",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16286,
+    "nama_kelurahan": "Ceurucok (Ceureucok)",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16290,
+    "nama_kelurahan": "Cot Trieng",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16294,
+    "nama_kelurahan": "Cure Baroh",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16299,
+    "nama_kelurahan": "Cure Tunong",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16303,
+    "nama_kelurahan": "Glee Meudong (Gle Meundong)",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16308,
+    "nama_kelurahan": "Ie Rhob Babah Lueng",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16312,
+    "nama_kelurahan": "Ie Rhob Barat",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16318,
+    "nama_kelurahan": "Ie Rhob Geulumpang/Glumpang",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16322,
+    "nama_kelurahan": "Ie Rhob Timu (Ie Rhob Timur)",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16324,
+    "nama_kelurahan": "Jurong Binjee",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16327,
+    "nama_kelurahan": "Keude Tambue",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16330,
+    "nama_kelurahan": "Krueng Meuseugob",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16334,
+    "nama_kelurahan": "Lancang",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16337,
+    "nama_kelurahan": "Lhok Mane",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16340,
+    "nama_kelurahan": "Lhok Tanoh",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16345,
+    "nama_kelurahan": "Meunasah Asan",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16347,
+    "nama_kelurahan": "Meunasah Barat",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16350,
+    "nama_kelurahan": "Meunasah Dayah",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16353,
+    "nama_kelurahan": "Meunasah Mamplam",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16357,
+    "nama_kelurahan": "Meunasah Mesjid",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16362,
+    "nama_kelurahan": "Paku",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16366,
+    "nama_kelurahan": "Peuneulet Baroh",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16369,
+    "nama_kelurahan": "Peuneulet Tunong",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16373,
+    "nama_kelurahan": "Pulo Dapong",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16376,
+    "nama_kelurahan": "Pulo Drien",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16381,
+    "nama_kelurahan": "Rheum Barat",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16385,
+    "nama_kelurahan": "Rheum Barouh/Baroh",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16388,
+    "nama_kelurahan": "Rheum Timu (Rheum Timur)",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16391,
+    "nama_kelurahan": "Tambue Barat",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 16394,
+    "nama_kelurahan": "Ulee Kareung",
+    "kecamatan_id": 6171
+  },
+  {
+    "id": 21482,
+    "nama_kelurahan": "Geulumpang/Glumpang Payong",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21495,
+    "nama_kelurahan": "Glumpang Meulum",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21512,
+    "nama_kelurahan": "Kandang",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21523,
+    "nama_kelurahan": "Keude Aceh",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21536,
+    "nama_kelurahan": "Lancok",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21545,
+    "nama_kelurahan": "Lhok Seumira",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21557,
+    "nama_kelurahan": "Lueng Keubeu",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21569,
+    "nama_kelurahan": "Matang",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21676,
+    "nama_kelurahan": "Matang Jereung (Matang Jareung)",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21689,
+    "nama_kelurahan": "Matang Teungoh",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21702,
+    "nama_kelurahan": "Matang Wakeuh",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21715,
+    "nama_kelurahan": "Mesjid Baro",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21730,
+    "nama_kelurahan": "Meuliek",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21736,
+    "nama_kelurahan": "Meunasah Lancok",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21743,
+    "nama_kelurahan": "Meunasah Lincah",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21751,
+    "nama_kelurahan": "Meunasah Lueng",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21763,
+    "nama_kelurahan": "Meunasah Puuk",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21785,
+    "nama_kelurahan": "Meurah",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21796,
+    "nama_kelurahan": "Mideun Geudong",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21811,
+    "nama_kelurahan": "Mideun Jok",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21828,
+    "nama_kelurahan": "Namploh Baro",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21842,
+    "nama_kelurahan": "Namploh Blang Garang",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21852,
+    "nama_kelurahan": "Namploh Krueng",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21861,
+    "nama_kelurahan": "Namploh Manyang",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21869,
+    "nama_kelurahan": "Namploh Papeun (Namploh Papeuen)",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21878,
+    "nama_kelurahan": "Paloh",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21892,
+    "nama_kelurahan": "Pante Rheeng/Rheng",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21909,
+    "nama_kelurahan": "Pineung Siribee (Pineung Siri Bee)",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21918,
+    "nama_kelurahan": "Pulo Baroh",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21949,
+    "nama_kelurahan": "Sangso",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 21989,
+    "nama_kelurahan": "Tanjong Baro",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22007,
+    "nama_kelurahan": "Tonjongan Idem (Tanjongan Idem)",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22021,
+    "nama_kelurahan": "Ulee Alue",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22039,
+    "nama_kelurahan": "Ulee Jeumatan",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22052,
+    "nama_kelurahan": "Ulee Ue",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22065,
+    "nama_kelurahan": "Alue Barat",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22081,
+    "nama_kelurahan": "Angkieng Barat (Ankieng Barat)",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22096,
+    "nama_kelurahan": "Batee Iliek",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22105,
+    "nama_kelurahan": "Cot Mane",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22113,
+    "nama_kelurahan": "Cot Meurak Baroh",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22119,
+    "nama_kelurahan": "Cot Meurak Blang",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22127,
+    "nama_kelurahan": "Cot Siren",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22143,
+    "nama_kelurahan": "Darussalam",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22155,
+    "nama_kelurahan": "Gampong Baro",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22168,
+    "nama_kelurahan": "Gampong Putoh",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 22174,
+    "nama_kelurahan": "Geulumpang/Glumpang Bungkok",
+    "kecamatan_id": 5073
+  },
+  {
+    "id": 27564,
+    "nama_kelurahan": "Awe Geutah",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27574,
+    "nama_kelurahan": "Awe Geutah Paya",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27580,
+    "nama_kelurahan": "Blang Cirih",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27587,
+    "nama_kelurahan": "Buket Sudan",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27594,
+    "nama_kelurahan": "Cot Aneuk Batee",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27596,
+    "nama_kelurahan": "Krueng Baro Babah Krueng",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27603,
+    "nama_kelurahan": "Cot Saleuet (Cot Saleut)",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27606,
+    "nama_kelurahan": "Krueng Baro Mesjid",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27611,
+    "nama_kelurahan": "Dayah Baro (Dayah Baroe)",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27613,
+    "nama_kelurahan": "Krueng Dheu (Krueng Dheue)",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27618,
+    "nama_kelurahan": "Kubu",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27623,
+    "nama_kelurahan": "Kubu Raya",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27626,
+    "nama_kelurahan": "Mata Mamplam",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27627,
+    "nama_kelurahan": "Lueng Daneun",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27631,
+    "nama_kelurahan": "Paloh Mampre (Paloh Mampree)",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27636,
+    "nama_kelurahan": "Pante Baro Buket Panyang (Bukit Panyang)",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27638,
+    "nama_kelurahan": "Matang Cot Paseh",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27644,
+    "nama_kelurahan": "Pante Baro Gle Siblah (Pante Baro Glee Siblah)",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27651,
+    "nama_kelurahan": "Matang Mesjid",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27652,
+    "nama_kelurahan": "Pante Baro Kumbang",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27659,
+    "nama_kelurahan": "Pante Karya",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27664,
+    "nama_kelurahan": "Matang Sagoe",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27668,
+    "nama_kelurahan": "Rambong Payong",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27676,
+    "nama_kelurahan": "Matang Glumpang Dua Meunasah Dayah",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27677,
+    "nama_kelurahan": "Teupin Raya",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 27687,
+    "nama_kelurahan": "Blang Cut",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27689,
+    "nama_kelurahan": "Meunasah Meucap",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27697,
+    "nama_kelurahan": "Blang Mane",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27703,
+    "nama_kelurahan": "Meunasah Nibong",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27704,
+    "nama_kelurahan": "Blang Pala",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27713,
+    "nama_kelurahan": "Ceubrek",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27717,
+    "nama_kelurahan": "Matang Glumpang Dua Mns. Timu",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27722,
+    "nama_kelurahan": "Darul Aman",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27725,
+    "nama_kelurahan": "Neuheun (Neuheuen)",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27731,
+    "nama_kelurahan": "Darussalam",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27736,
+    "nama_kelurahan": "Nicah",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27745,
+    "nama_kelurahan": "Paloh",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27756,
+    "nama_kelurahan": "Pante Ara",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27758,
+    "nama_kelurahan": "Geulanggang Labu",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27767,
+    "nama_kelurahan": "Krueng Beukah",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27769,
+    "nama_kelurahan": "Pante Cut",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27775,
+    "nama_kelurahan": "Lueng Baro",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27782,
+    "nama_kelurahan": "Pante Gajah",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27785,
+    "nama_kelurahan": "Lung Kuli (Lueng Kuli)",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27794,
+    "nama_kelurahan": "Mata Ie",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27795,
+    "nama_kelurahan": "Pante Pisang",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27802,
+    "nama_kelurahan": "Me Rayeuk",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27805,
+    "nama_kelurahan": "Pante Piyeu",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27809,
+    "nama_kelurahan": "Paya Crot",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27815,
+    "nama_kelurahan": "Pantee Lhong (Pante Lhong)",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27816,
+    "nama_kelurahan": "Pulo Harapan",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27823,
+    "nama_kelurahan": "Pulo Panyang",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27826,
+    "nama_kelurahan": "Suwak",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27831,
+    "nama_kelurahan": "Tanjong Beuridi",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27837,
+    "nama_kelurahan": "Teupin Reudeup",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27840,
+    "nama_kelurahan": "Panton Geulima",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27850,
+    "nama_kelurahan": "Paya Aboe",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27851,
+    "nama_kelurahan": "Ulee Jalan",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27853,
+    "nama_kelurahan": "Balee Daka",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27857,
+    "nama_kelurahan": "Uteun Gathom (Uteun Ghatom)",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27861,
+    "nama_kelurahan": "Cot Gleumpang (Cot Geulumpang)",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27862,
+    "nama_kelurahan": "Paya Cut",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27864,
+    "nama_kelurahan": "Garab",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27866,
+    "nama_kelurahan": "Uteun Raya",
+    "kecamatan_id": 4611
+  },
+  {
+    "id": 27871,
+    "nama_kelurahan": "Paya Lipah",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27872,
+    "nama_kelurahan": "Jambo Dalam",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27875,
+    "nama_kelurahan": "Alue Glumpang (Alue Glumpang Ba)",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27880,
+    "nama_kelurahan": "Paya Meuneng",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27881,
+    "nama_kelurahan": "Keude Plimbang",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27883,
+    "nama_kelurahan": "Alue Peuno",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27888,
+    "nama_kelurahan": "Krueng Baro/Baru",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27890,
+    "nama_kelurahan": "Paya Reuhat",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27893,
+    "nama_kelurahan": "Alue Udeng (Alue Udeung)",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27899,
+    "nama_kelurahan": "Kuta Trieng",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27901,
+    "nama_kelurahan": "Asan Bideun",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27902,
+    "nama_kelurahan": "Pulo Naleung",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27909,
+    "nama_kelurahan": "Lancok Bungo",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27910,
+    "nama_kelurahan": "Pulo Pisang",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27912,
+    "nama_kelurahan": "Bayu",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27918,
+    "nama_kelurahan": "Matang Kulee",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27919,
+    "nama_kelurahan": "Sagoe",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27922,
+    "nama_kelurahan": "Blang Asan",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27927,
+    "nama_kelurahan": "Padang Kasab",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27928,
+    "nama_kelurahan": "Seuneubok Aceh",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27930,
+    "nama_kelurahan": "Blang Cut",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27937,
+    "nama_kelurahan": "Paloh Pupu",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27940,
+    "nama_kelurahan": "Blang Dalam",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27941,
+    "nama_kelurahan": "Seuneubok Rawa",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27946,
+    "nama_kelurahan": "Puuek (Pu Uk)",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27948,
+    "nama_kelurahan": "Blang Geulanggang",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27955,
+    "nama_kelurahan": "Rambong Payong",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27957,
+    "nama_kelurahan": "Blang Panjoe",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27964,
+    "nama_kelurahan": "Seuneubok Aceh",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27967,
+    "nama_kelurahan": "Blang Rambong",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27972,
+    "nama_kelurahan": "Cot Bada Barat",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27979,
+    "nama_kelurahan": "Cot Bada Baroh",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27984,
+    "nama_kelurahan": "Tanjong Mesjid",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27985,
+    "nama_kelurahan": "Seuneubok Nalan",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27988,
+    "nama_kelurahan": "Cot Bada Tunong",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27992,
+    "nama_kelurahan": "Seuneubok Plimbang",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 27995,
+    "nama_kelurahan": "Cot Buket",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 27999,
+    "nama_kelurahan": "Seuneubok Punti",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 28001,
+    "nama_kelurahan": "Cot Girek",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28007,
+    "nama_kelurahan": "Cot Ijue (Ieju)",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28014,
+    "nama_kelurahan": "Cot Keumude (Cot Keumudee)",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28021,
+    "nama_kelurahan": "Cot Keuranji",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28023,
+    "nama_kelurahan": "Tanjong Nie",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28029,
+    "nama_kelurahan": "Tanjong Paya",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28038,
+    "nama_kelurahan": "Tanoh Mirah",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28044,
+    "nama_kelurahan": "Cot Nga",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28048,
+    "nama_kelurahan": "Seuneubok Seumawe",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 28049,
+    "nama_kelurahan": "Uteun Bunta",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28068,
+    "nama_kelurahan": "Cot Panjoe",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28072,
+    "nama_kelurahan": "Seuneubok Teungoh",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 28073,
+    "nama_kelurahan": "Cot Puuk",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28077,
+    "nama_kelurahan": "Teupin Panah",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 28079,
+    "nama_kelurahan": "Cot Rabo Baroh",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28081,
+    "nama_kelurahan": "Uteun Rungkom",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 28086,
+    "nama_kelurahan": "Cot Rabo Tunong",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28093,
+    "nama_kelurahan": "Uteun Sikumbong",
+    "kecamatan_id": 4507
+  },
+  {
+    "id": 28098,
+    "nama_kelurahan": "Gampong Baro (Gampong Baroh)",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28106,
+    "nama_kelurahan": "Gampong Putoh",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28113,
+    "nama_kelurahan": "Gampong Raya Dagang",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28120,
+    "nama_kelurahan": "Gampong Raya Tambo",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28130,
+    "nama_kelurahan": "Kapa",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28137,
+    "nama_kelurahan": "Kareueng",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28144,
+    "nama_kelurahan": "Karieng",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28153,
+    "nama_kelurahan": "Keude Matang Glumpang Dua (II)",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28160,
+    "nama_kelurahan": "Keude Tanjong",
+    "kecamatan_id": 4593
+  },
+  {
+    "id": 28188,
+    "nama_kelurahan": "Alue Glumpang (Alue Glumpang Sbl.K)",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 28202,
+    "nama_kelurahan": "Alue Iet",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 28230,
+    "nama_kelurahan": "Alue Keupula (Kupula)",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 28244,
+    "nama_kelurahan": "Alue Krueb",
+    "kecamatan_id": 4623
+  },
+  {
+    "id": 28247,
+    "nama_kelurahan": "Aleu Sijuk (Alue Sijuek)",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28252,
+    "nama_kelurahan": "Alue Gandai",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28258,
+    "nama_kelurahan": "Alue Keutapang",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28265,
+    "nama_kelurahan": "Ara Bungong",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28272,
+    "nama_kelurahan": "Blang Bati",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28285,
+    "nama_kelurahan": "Blang Beururu",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28297,
+    "nama_kelurahan": "Blang Glumpang",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28312,
+    "nama_kelurahan": "Blang Kubu",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28324,
+    "nama_kelurahan": "Blang Matang",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28333,
+    "nama_kelurahan": "Blang Rangkuluh",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28341,
+    "nama_kelurahan": "Buket Paya",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28351,
+    "nama_kelurahan": "Calok",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28379,
+    "nama_kelurahan": "Cot Keutapang",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28388,
+    "nama_kelurahan": "Cot Kruet",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28419,
+    "nama_kelurahan": "Cot Laot",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28426,
+    "nama_kelurahan": "Dayah Mon Ara",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28435,
+    "nama_kelurahan": "Gampong Baro (Kampong Baro)",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28446,
+    "nama_kelurahan": "Gampong Mesjid (Meunasah Mesjid)",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28452,
+    "nama_kelurahan": "Gampong Mulia (Mulia)",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28458,
+    "nama_kelurahan": "Gampong Paya (Paya)",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28467,
+    "nama_kelurahan": "Garot",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28483,
+    "nama_kelurahan": "Hagu",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28491,
+    "nama_kelurahan": "Jaba",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28499,
+    "nama_kelurahan": "Jabet",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28511,
+    "nama_kelurahan": "Karieng",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28524,
+    "nama_kelurahan": "Keude Alue Rheng (Keude Alue Rheing)",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28537,
+    "nama_kelurahan": "Kukue",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28546,
+    "nama_kelurahan": "Lawang",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28550,
+    "nama_kelurahan": "Matang Pasi",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28584,
+    "nama_kelurahan": "Matang Reuleut",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28596,
+    "nama_kelurahan": "Meunasah Alue",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28608,
+    "nama_kelurahan": "Meunasah Baroh",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28620,
+    "nama_kelurahan": "Meunasah Blang",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28631,
+    "nama_kelurahan": "Meunasah Bungo",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28641,
+    "nama_kelurahan": "Meunasah Cut",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28662,
+    "nama_kelurahan": "Meunasah Krueng",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28672,
+    "nama_kelurahan": "Meunasah Pulo",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28681,
+    "nama_kelurahan": "Meunasah Rabo",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28688,
+    "nama_kelurahan": "Meunasah Tambo",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28701,
+    "nama_kelurahan": "Meunasah Teungoh",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28707,
+    "nama_kelurahan": "Meunasah Tunong",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28720,
+    "nama_kelurahan": "Neubok Naleung",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28733,
+    "nama_kelurahan": "Paya Barat",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28741,
+    "nama_kelurahan": "Paya Beunot (Paya Bunot)",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28755,
+    "nama_kelurahan": "Paya Timu (Paya Timur)",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28768,
+    "nama_kelurahan": "Pinto Rimba",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28783,
+    "nama_kelurahan": "Pulo Ara",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28801,
+    "nama_kelurahan": "Pulo Lawang",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28808,
+    "nama_kelurahan": "Sawang",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28820,
+    "nama_kelurahan": "Seuneubok Paya",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28829,
+    "nama_kelurahan": "Tanjong Selamat (Tanjong Seulamat)",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 28838,
+    "nama_kelurahan": "Teungku Di Bathon",
+    "kecamatan_id": 4446
+  },
+  {
+    "id": 31626,
+    "nama_kelurahan": "Alue Igeuh (Alue Igeueh)",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31632,
+    "nama_kelurahan": "Bantayan",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31634,
+    "nama_kelurahan": "Blang Sama Gadeng",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31639,
+    "nama_kelurahan": "Cot Leubeng",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31643,
+    "nama_kelurahan": "Gampong Blang",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31646,
+    "nama_kelurahan": "Garot",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31651,
+    "nama_kelurahan": "Kuta Reusep/Rusep",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31652,
+    "nama_kelurahan": "Lancok Ulim",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31655,
+    "nama_kelurahan": "Lhok Dagang",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31657,
+    "nama_kelurahan": "Meunasah Reudeup",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31659,
+    "nama_kelurahan": "Meunasah Teungoh",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31662,
+    "nama_kelurahan": "Nase Barat",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31687,
+    "nama_kelurahan": "Nase Mee (Nase Me)",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31691,
+    "nama_kelurahan": "Pandrah Janeng",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31694,
+    "nama_kelurahan": "Pandrah Kandeh",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31699,
+    "nama_kelurahan": "Panton",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31700,
+    "nama_kelurahan": "Panton Bili",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31706,
+    "nama_kelurahan": "Seunebok Baro (Seuneubok Baro)",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 31711,
+    "nama_kelurahan": "Uteuen Kruet (Uteun Kruet)",
+    "kecamatan_id": 3838
+  },
+  {
+    "id": 43327,
+    "nama_kelurahan": "Alue Dua",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43338,
+    "nama_kelurahan": "Ara Lipeh",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43345,
+    "nama_kelurahan": "Batee Dabai",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43360,
+    "nama_kelurahan": "Blang Dalam",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43371,
+    "nama_kelurahan": "Blang Khutang (Blang Kutang)",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43381,
+    "nama_kelurahan": "Blang Mane",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43399,
+    "nama_kelurahan": "Blang Perlak",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43426,
+    "nama_kelurahan": "Buket Seulamat (Buket Selamat)",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43436,
+    "nama_kelurahan": "Cot Kruet",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43447,
+    "nama_kelurahan": "Kuta Barat",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43461,
+    "nama_kelurahan": "Lapehan Mesjid",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43469,
+    "nama_kelurahan": "Leubu Cot",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43485,
+    "nama_kelurahan": "Leubu Me",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43499,
+    "nama_kelurahan": "Leubu Mesjid",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43506,
+    "nama_kelurahan": "Matang Kumbang",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43521,
+    "nama_kelurahan": "Meureubo",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43532,
+    "nama_kelurahan": "Mona Ara (Mon Ara)",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43546,
+    "nama_kelurahan": "Pandak",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43557,
+    "nama_kelurahan": "Panteu Breuh (Pante Breuh)",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43569,
+    "nama_kelurahan": "Panton Mesjid",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43583,
+    "nama_kelurahan": "Paya Dua",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43598,
+    "nama_kelurahan": "Pulo Teungoh",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43612,
+    "nama_kelurahan": "Seuneubok Baro",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43633,
+    "nama_kelurahan": "Sukarame",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43644,
+    "nama_kelurahan": "Tanjong Mulia",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43667,
+    "nama_kelurahan": "Trienggadeng",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 43672,
+    "nama_kelurahan": "Ulee Glee (Ulee Gle)",
+    "kecamatan_id": 3801
+  },
+  {
+    "id": 48085,
+    "nama_kelurahan": "Babah Jurong",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48091,
+    "nama_kelurahan": "Babah Suak",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48095,
+    "nama_kelurahan": "Balee Mee (Balee Me)",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48097,
+    "nama_kelurahan": "Blang Mee",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48099,
+    "nama_kelurahan": "Blang Panjo (Blang Panjoe)",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48103,
+    "nama_kelurahan": "Bukit/Buket Dalam",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48107,
+    "nama_kelurahan": "Cot Ara",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48111,
+    "nama_kelurahan": "Cot Baroh",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48115,
+    "nama_kelurahan": "Cot Mee (Cot Me)",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48119,
+    "nama_kelurahan": "Crung/Crueng Kumbang",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48123,
+    "nama_kelurahan": "Dayah Mesjid",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48127,
+    "nama_kelurahan": "Dayah Panjoe",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48132,
+    "nama_kelurahan": "Geulanggang Meunjee",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48137,
+    "nama_kelurahan": "Geulanggang Panah",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48141,
+    "nama_kelurahan": "Geulanggang Rayeuk",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48145,
+    "nama_kelurahan": "Glee Putoh (Gle Putoh)",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48149,
+    "nama_kelurahan": "Imbudee (Iembudee)",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48156,
+    "nama_kelurahan": "Jambo Kajeung",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48163,
+    "nama_kelurahan": "Jarommah Baroh (Jarummah Baroh)",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48168,
+    "nama_kelurahan": "Jarommah Me (Jarummahme)",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48173,
+    "nama_kelurahan": "Keurumbok",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48179,
+    "nama_kelurahan": "Kulu",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48186,
+    "nama_kelurahan": "Kulu Kuta",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48193,
+    "nama_kelurahan": "Lhok Nga",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48201,
+    "nama_kelurahan": "Meusee (Meuse)",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48208,
+    "nama_kelurahan": "Paloh Dama",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48216,
+    "nama_kelurahan": "Paloh Peuradi",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48223,
+    "nama_kelurahan": "Paloh Raya",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48229,
+    "nama_kelurahan": "Parang Sikureung",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48233,
+    "nama_kelurahan": "Paya Rangkuluh",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48239,
+    "nama_kelurahan": "Pulo Awe",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48247,
+    "nama_kelurahan": "Pulo Blang",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48254,
+    "nama_kelurahan": "Pulo Nga",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48263,
+    "nama_kelurahan": "Pulo Reudeup",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48271,
+    "nama_kelurahan": "Pulo Siron/Siren",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48282,
+    "nama_kelurahan": "Rancong",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48298,
+    "nama_kelurahan": "Tanjong Siron",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48304,
+    "nama_kelurahan": "Tingkeum Baro",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48312,
+    "nama_kelurahan": "Tingkeum Manyang",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48319,
+    "nama_kelurahan": "Ujong Blang",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48325,
+    "nama_kelurahan": "Ulee Pusong",
+    "kecamatan_id": 3619
+  },
+  {
+    "id": 48911,
+    "nama_kelurahan": "Cot Kuta",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 48918,
+    "nama_kelurahan": "Cot Laga Sawa (Cot Lagasawa)",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 48940,
+    "nama_kelurahan": "Cot Trieng",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 48947,
+    "nama_kelurahan": "Cot U Sibak",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 48954,
+    "nama_kelurahan": "Cot Unou (Cot Unoe)",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 48993,
+    "nama_kelurahan": "Glumpang Baroh",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49010,
+    "nama_kelurahan": "Kareung (Kareueng)",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49016,
+    "nama_kelurahan": "Krueng Juli Barat",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49025,
+    "nama_kelurahan": "Krueng Juli Timu (Krueng Juli Timur)",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49035,
+    "nama_kelurahan": "Kuala Raja",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49040,
+    "nama_kelurahan": "Kuta Baro",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49057,
+    "nama_kelurahan": "Lancok Lancok",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49065,
+    "nama_kelurahan": "Lancok Pante Ara",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49080,
+    "nama_kelurahan": "Lhok Awe Awe",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49171,
+    "nama_kelurahan": "Ujong Blang",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49182,
+    "nama_kelurahan": "Ujong Blang Mesjid",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49219,
+    "nama_kelurahan": "Weu Jangka",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49442,
+    "nama_kelurahan": "Bale Kunyuen (Balee Kuyun)",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49561,
+    "nama_kelurahan": "Cot Batee",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 49577,
+    "nama_kelurahan": "Cot Gleumpang (Cot Glumpang)",
+    "kecamatan_id": 2892
+  },
+  {
+    "id": 50245,
+    "nama_kelurahan": "Bandar Bireuen (Kota Bireun / Bireuen)",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50252,
+    "nama_kelurahan": "Bireuen Meunasah Blang (Bireun Meunasah Blang)",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50261,
+    "nama_kelurahan": "Bireuen Meunasah Capa (Bireun Meunasah Capa)",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50270,
+    "nama_kelurahan": "Bireuen Meunasah Dayah (Bireun Meunasah Dayah)",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50277,
+    "nama_kelurahan": "Bireuen Meunasah Reulet (Bireun Meunasah Reuleut)",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50287,
+    "nama_kelurahan": "Bireuen Meunasah Tgk Digadon",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50291,
+    "nama_kelurahan": "Blang Reulieng (Reuling)",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50296,
+    "nama_kelurahan": "Blang Tingkeum",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50300,
+    "nama_kelurahan": "Buket Teukueh",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50316,
+    "nama_kelurahan": "Cot Gapu",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50326,
+    "nama_kelurahan": "Cot Jrat",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50332,
+    "nama_kelurahan": "Cot Peutek",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50342,
+    "nama_kelurahan": "Gampong Baro",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50345,
+    "nama_kelurahan": "Geudong Aleu (Geudong Alue)",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50349,
+    "nama_kelurahan": "Geudong Geudong",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50352,
+    "nama_kelurahan": "Geulanggang Baro",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50355,
+    "nama_kelurahan": "Geulanggang Gampong",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50359,
+    "nama_kelurahan": "Geulanggang Kulam",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50366,
+    "nama_kelurahan": "Geulanggang Teungoh",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50372,
+    "nama_kelurahan": "Lhok Awe Teungoh",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50378,
+    "nama_kelurahan": "Pulo Ara Geudong Teungoh",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50381,
+    "nama_kelurahan": "Pulo Kiton",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 50392,
+    "nama_kelurahan": "Uteun Reutoh",
+    "kecamatan_id": 2333
+  },
+  {
+    "id": 57809,
+    "nama_kelurahan": "Juli Meunasah Jok",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57818,
+    "nama_kelurahan": "Juli Meunasah Tambo",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57826,
+    "nama_kelurahan": "Juli Meunasah Teungoh",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57835,
+    "nama_kelurahan": "Juli Payaru (Juli Paya Ru)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57843,
+    "nama_kelurahan": "Juli Seupeng/Lampoh",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57853,
+    "nama_kelurahan": "Juli Seutuy (Juli Meunasah Seutuy)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57860,
+    "nama_kelurahan": "Juli Tambo Tanjong",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57864,
+    "nama_kelurahan": "Juli Teungku Dilampoh",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57868,
+    "nama_kelurahan": "Juli Uruek Anoe",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57872,
+    "nama_kelurahan": "Krueng Simpo",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57878,
+    "nama_kelurahan": "Mane Meujingki",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57882,
+    "nama_kelurahan": "Pante Baro",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57889,
+    "nama_kelurahan": "Pante Peusangan",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57894,
+    "nama_kelurahan": "Paseh",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57910,
+    "nama_kelurahan": "Paya Cut",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57919,
+    "nama_kelurahan": "Ranto Panyang",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57926,
+    "nama_kelurahan": "Seuneubok Dalam",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57932,
+    "nama_kelurahan": "Seuneubok Gunci",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57938,
+    "nama_kelurahan": "Seuneubok Peureraden (Seuneubok Peuraden)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57959,
+    "nama_kelurahan": "Simpang Jaya",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57966,
+    "nama_kelurahan": "Simpang Mulia",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57974,
+    "nama_kelurahan": "Suka Tani",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 57985,
+    "nama_kelurahan": "Teupin Mane (Teupin Manee)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58370,
+    "nama_kelurahan": "Cot Tarom Baroh",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58377,
+    "nama_kelurahan": "Cot Tarom Tunong",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58393,
+    "nama_kelurahan": "Cot Ulim",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58403,
+    "nama_kelurahan": "Geudong Tampu",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58414,
+    "nama_kelurahan": "Gleumpang Payong (Geulumpang Payong)",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58418,
+    "nama_kelurahan": "Lheu Simpang (Lheue Simpang)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58440,
+    "nama_kelurahan": "Lhok Kulam",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58459,
+    "nama_kelurahan": "Lueng Teungoh (Lhueng Tengoh)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58463,
+    "nama_kelurahan": "Meunasah Keupula",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58466,
+    "nama_kelurahan": "Abeuk Budi",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58467,
+    "nama_kelurahan": "Kuala Jeumpa",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58473,
+    "nama_kelurahan": "Meunasah Keutapang",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58480,
+    "nama_kelurahan": "Meunasah Kota",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58485,
+    "nama_kelurahan": "Matang Bangka",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58486,
+    "nama_kelurahan": "Alue Rambong (Aleu Rambong)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58488,
+    "nama_kelurahan": "Meunasah Lueng",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58499,
+    "nama_kelurahan": "Kuta Meuligoe",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58504,
+    "nama_kelurahan": "Alue Unou/Unoe",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58506,
+    "nama_kelurahan": "Meunasah Tambo",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58515,
+    "nama_kelurahan": "Matang Nibong",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58518,
+    "nama_kelurahan": "Laksamana (Lhaksamana)",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58522,
+    "nama_kelurahan": "Meunasah Tunong Lueng",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58523,
+    "nama_kelurahan": "Bale Panah (Balee Panah)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58531,
+    "nama_kelurahan": "Matang Teungoh",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58533,
+    "nama_kelurahan": "Lipah Cut",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58534,
+    "nama_kelurahan": "Paya Bili",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58542,
+    "nama_kelurahan": "Lipah Rayeuk",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58547,
+    "nama_kelurahan": "Pulo Rangkileh",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58548,
+    "nama_kelurahan": "Meunasah Alue",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58549,
+    "nama_kelurahan": "Mon Jambee",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58553,
+    "nama_kelurahan": "Mon Mane",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58563,
+    "nama_kelurahan": "Paloh Panyang",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58564,
+    "nama_kelurahan": "Batee Raya",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58565,
+    "nama_kelurahan": "Meunasah Blang",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58567,
+    "nama_kelurahan": "Sampo Ajad (Sampoi Ajat)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58569,
+    "nama_kelurahan": "Paloh Seulimeng",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58574,
+    "nama_kelurahan": "Pulo Lawang",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58578,
+    "nama_kelurahan": "Salah Sirong Jaya",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58581,
+    "nama_kelurahan": "Blang Keutumba (Ketumba)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58582,
+    "nama_kelurahan": "Seuleumbah",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58583,
+    "nama_kelurahan": "Meunasah Dayah",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58587,
+    "nama_kelurahan": "Seuneubok Lhong",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58595,
+    "nama_kelurahan": "Teupok Baroh",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58596,
+    "nama_kelurahan": "Bukit Mulia (Buket Mulia)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58604,
+    "nama_kelurahan": "Teupok Tunong",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58605,
+    "nama_kelurahan": "Tanjong Bungong",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58607,
+    "nama_kelurahan": "Bunyot (Beunyot)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58613,
+    "nama_kelurahan": "Glumpang Meu Jim Jim (Geulumpang Meu Jimjim)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58614,
+    "nama_kelurahan": "Teupin Kupula (Teupin Keupula)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58618,
+    "nama_kelurahan": "Tufah",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58619,
+    "nama_kelurahan": "Juli Cot Mesjid",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58629,
+    "nama_kelurahan": "Ulee Blang",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58630,
+    "nama_kelurahan": "Juli Cot Meurak",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58635,
+    "nama_kelurahan": "Ulee Gajah",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58636,
+    "nama_kelurahan": "Juli Keude dua (Juli Keudee Dua)",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58646,
+    "nama_kelurahan": "Ulee Rabo",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58652,
+    "nama_kelurahan": "Juli Mee Teungoh",
+    "kecamatan_id": 2070
+  },
+  {
+    "id": 58662,
+    "nama_kelurahan": "Uteun Peupaleh (Uteun Pupaleh)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58670,
+    "nama_kelurahan": "Abeuk Tingkeum",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58678,
+    "nama_kelurahan": "Keude Jeunieb",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58688,
+    "nama_kelurahan": "Abeuk Usong",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58697,
+    "nama_kelurahan": "Alue Limeng",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58698,
+    "nama_kelurahan": "Lampoh Oe",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58704,
+    "nama_kelurahan": "Lancang",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58719,
+    "nama_kelurahan": "Lheu Barat (Lheue Barat)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58761,
+    "nama_kelurahan": "Alue Lamsaba",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58767,
+    "nama_kelurahan": "Alue Seutui",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58770,
+    "nama_kelurahan": "Blang Lancang",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58775,
+    "nama_kelurahan": "Blang Me Barat (Blang Mee Barat)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58781,
+    "nama_kelurahan": "Blang Me Timu (Blang Mee Timur)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58786,
+    "nama_kelurahan": "Batee Timoh",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58788,
+    "nama_kelurahan": "Blang Neubok",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58796,
+    "nama_kelurahan": "Blang Pohroh (Blang Poroh)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58800,
+    "nama_kelurahan": "Beurawang",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58803,
+    "nama_kelurahan": "Cot Glumpang Baroh (Cot Geulumpang Baroh)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58811,
+    "nama_kelurahan": "Blang Bladeh",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58812,
+    "nama_kelurahan": "Cot Glumpang Tunong (Cot Geulumpang Tunong)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58820,
+    "nama_kelurahan": "Darul Aman",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58822,
+    "nama_kelurahan": "Blang Cot Baroh",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58827,
+    "nama_kelurahan": "Dayah Baro",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58835,
+    "nama_kelurahan": "Dayah Blang Raleu",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58837,
+    "nama_kelurahan": "Blang Cot Tunong",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58842,
+    "nama_kelurahan": "Blang Dalam",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58848,
+    "nama_kelurahan": "Janggot Seungko",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58850,
+    "nama_kelurahan": "Blang Gandai",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58857,
+    "nama_kelurahan": "Jeumpa Sikureng (Jeumpa Sikureung)",
+    "kecamatan_id": 1836
+  },
+  {
+    "id": 58861,
+    "nama_kelurahan": "Blang Mee (Blang Me)",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58870,
+    "nama_kelurahan": "Blang Rheum",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58880,
+    "nama_kelurahan": "Blang Seunong",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58897,
+    "nama_kelurahan": "Blang Seupeung (Blang Seupeng)",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58920,
+    "nama_kelurahan": "Cot Bada",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58947,
+    "nama_kelurahan": "Cot Gadong",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58961,
+    "nama_kelurahan": "Cot Geureundong (Cot Geurundong)",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 58989,
+    "nama_kelurahan": "Cot Iboeh Timu",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 59004,
+    "nama_kelurahan": "Cot Iboih (Cot Iboh)",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 59019,
+    "nama_kelurahan": "Cot Keutapang",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 59038,
+    "nama_kelurahan": "Cot Leusong",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 59060,
+    "nama_kelurahan": "Cot Meugoe",
+    "kecamatan_id": 1828
+  },
+  {
+    "id": 59328,
+    "nama_kelurahan": "Jangka Alue U",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59337,
+    "nama_kelurahan": "Jangka Keutapang",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59347,
+    "nama_kelurahan": "Jangka Mesjid",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59351,
+    "nama_kelurahan": "Kambuk (Kambuek)",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59355,
+    "nama_kelurahan": "Kuala Cerape (Kuala Ceurape)",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59362,
+    "nama_kelurahan": "Lamkuta",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59366,
+    "nama_kelurahan": "Lampoh Rayeuk",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59370,
+    "nama_kelurahan": "Lhok Bugeng",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59377,
+    "nama_kelurahan": "Linggong",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59381,
+    "nama_kelurahan": "Lueng",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59403,
+    "nama_kelurahan": "Meunasah Krueng",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59409,
+    "nama_kelurahan": "Pante Paku",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59416,
+    "nama_kelurahan": "Pante Peusangan",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59417,
+    "nama_kelurahan": "Pante Ranub",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59424,
+    "nama_kelurahan": "Pante Sukon",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59430,
+    "nama_kelurahan": "Paya Bieng",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59445,
+    "nama_kelurahan": "Pulo Blang",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59447,
+    "nama_kelurahan": "Pulo Iboih (Pulo Iboh / Iboeh)",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59453,
+    "nama_kelurahan": "Pulo Pineung Meunasah Dua (II)",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59460,
+    "nama_kelurahan": "Pulo Reudeup",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59462,
+    "nama_kelurahan": "Pulo Seuna",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59466,
+    "nama_kelurahan": "Pulo U",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59471,
+    "nama_kelurahan": "Punjot",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59473,
+    "nama_kelurahan": "Ruseb Ara",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59478,
+    "nama_kelurahan": "Ruseb Dayah",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59484,
+    "nama_kelurahan": "Tanah Anoe (Tanoh Anoe)",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59486,
+    "nama_kelurahan": "Tanjongan",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59493,
+    "nama_kelurahan": "Ulee Ceu (Ulee Ceue)",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59679,
+    "nama_kelurahan": "Abeuk Jaloh",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59690,
+    "nama_kelurahan": "Alue Bayeu Utang",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59696,
+    "nama_kelurahan": "Alue Bie Pusong",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59704,
+    "nama_kelurahan": "Alue Buya",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59714,
+    "nama_kelurahan": "Alue Buya Pasi",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59720,
+    "nama_kelurahan": "Alue Kuta",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59729,
+    "nama_kelurahan": "Bada Barat",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59749,
+    "nama_kelurahan": "Bada Timu (Bada Timur)",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59753,
+    "nama_kelurahan": "Barat Lanyan",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59757,
+    "nama_kelurahan": "Bugak Blang",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59761,
+    "nama_kelurahan": "Bugak Krueng",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59765,
+    "nama_kelurahan": "Bugak Krueng Matee (Bugak Krueng Mate)",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59773,
+    "nama_kelurahan": "Bugak Mesjid",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59780,
+    "nama_kelurahan": "Bugeng",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59788,
+    "nama_kelurahan": "Gampong Meulinteung",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59799,
+    "nama_kelurahan": "Geundot",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59803,
+    "nama_kelurahan": "Jangka Alue",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 59814,
+    "nama_kelurahan": "Jangka Alue Bie",
+    "kecamatan_id": 1778
+  },
+  {
+    "id": 63790,
+    "nama_kelurahan": "Tanjong Raya",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 63797,
+    "nama_kelurahan": "Teupin Siron",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 63809,
+    "nama_kelurahan": "Ujong Bayu",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64069,
+    "nama_kelurahan": "Mon Keulayu",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64083,
+    "nama_kelurahan": "Paloh Kaye Kunyet (Paloh Kayee Kunyet)",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64121,
+    "nama_kelurahan": "Paloh Me",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64135,
+    "nama_kelurahan": "Pante Sikeumbong (Sikumbong)",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64146,
+    "nama_kelurahan": "Paya Baro",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64172,
+    "nama_kelurahan": "Alue Mangki",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64175,
+    "nama_kelurahan": "Blang Guron",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64179,
+    "nama_kelurahan": "Paya Kareung",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64185,
+    "nama_kelurahan": "Blang Kede (Blang Keude)",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64194,
+    "nama_kelurahan": "Paya Seupat",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64211,
+    "nama_kelurahan": "Pulo Gisa",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64225,
+    "nama_kelurahan": "Samuti Aman",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64226,
+    "nama_kelurahan": "Blang Kubu",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64227,
+    "nama_kelurahan": "Blang Rheue",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64233,
+    "nama_kelurahan": "Ceubo",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64234,
+    "nama_kelurahan": "Samuti Krueng",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64243,
+    "nama_kelurahan": "Cot Jabet",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64247,
+    "nama_kelurahan": "Cot Mane",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64254,
+    "nama_kelurahan": "Cot Puuk",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64259,
+    "nama_kelurahan": "Samuti Makmur",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64267,
+    "nama_kelurahan": "Cot Rambat",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64272,
+    "nama_kelurahan": "Samuti Rayeuk",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64277,
+    "nama_kelurahan": "Tanjong Bungong",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64284,
+    "nama_kelurahan": "Tanjong Mesjid",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64286,
+    "nama_kelurahan": "Cot Tube/Teubee",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64295,
+    "nama_kelurahan": "Cot Tufah/Tupah",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64297,
+    "nama_kelurahan": "Cot Tunong",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64306,
+    "nama_kelurahan": "Dama Kawan",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64313,
+    "nama_kelurahan": "Geurugok",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64320,
+    "nama_kelurahan": "Ie Rhop (Ie Rhob)",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64334,
+    "nama_kelurahan": "Keude Lapang",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64340,
+    "nama_kelurahan": "Lapang Barat",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64346,
+    "nama_kelurahan": "Lapang Timu (Lapang Timur)",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64351,
+    "nama_kelurahan": "Lhok Mambang",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64355,
+    "nama_kelurahan": "Lingka Kuta",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64363,
+    "nama_kelurahan": "Mon Jambe (Mon Jambee)",
+    "kecamatan_id": 1958
+  },
+  {
+    "id": 64367,
+    "nama_kelurahan": "Mon Jeurujak (Mon Jeureujak)",
+    "kecamatan_id": 1958
+  }
+]

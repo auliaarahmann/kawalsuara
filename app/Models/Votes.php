@@ -15,6 +15,7 @@ class Votes extends Model
         'status',
         'verified_by',
         'verified_at',
+        'created_by',
         'kecamatan_id',
         'kelurahan_id',
         'tps_id',
@@ -33,9 +34,20 @@ class Votes extends Model
 
     }
 
-    public function user()
+    /**
+     * munculkan nama user di kolom Operator
+     */    
+    public function operator()
     {
         return $this->belongsTo(User::class, 'verified_by');
+    }
+
+    /**
+     * munculkan nama user di kolom Saksi
+     */     
+    public function saksi()
+    {
+        return $this->belongsTo(User::class, 'created_by');
     }
 
     public function kecamatan()

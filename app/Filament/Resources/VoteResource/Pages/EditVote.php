@@ -15,6 +15,7 @@ use Illuminate\Validation\ValidationException;
 use Filament\Notifications\Notification;
 use Illuminate\Support\Facades\Redirect;
 use App\Filament\Resources\VoteResource\Pages\getResource;
+use Carbon\Carbon;
 use Filament\Facades\Filament;
 
 class EditVote extends EditRecordAndRedirectToIndex
@@ -69,11 +70,10 @@ class EditVote extends EditRecordAndRedirectToIndex
         // Jika status belum verified, lanjutkan
         if (empty($data['status']) || $data['status'] === 'unverified') {
             $data['status'] = 'verified';
-        }
-    
-        // Set kolom verified_by dengan ID user yang sedang login
-        $data['verified_by'] = auth::id();
-            
+        }    
+        
+        $data['verified_by'] = auth::id();   // Set kolom verified_by dengan ID user yang sedang login        
+        $data['verified_at'] = Carbon::now();  // Set kolom verified_at dengan waktu sekarang
         return $data;
     }
      

@@ -26,6 +26,7 @@ class User extends Authenticatable implements HasAvatar, JWTSubject
         'password',
         'role',
         'avatar_url',
+        'created_by',
     ];
 
     /**
@@ -69,15 +70,24 @@ class User extends Authenticatable implements HasAvatar, JWTSubject
         return $this->avatar_url ? Storage::url("$this->avatar_url") : null;
     }
     
-    // Mengatur nilai default untuk avatar_url
+    /**
+     * tampilkan nama user di kolom created_by pda table user 
+     */    
+    public function creator()
+    {
+        return $this->belongsTo(User::class, 'created_by');
+    }
+
+    /**
+     *  Mengatur nilai default untuk avatar_url pada saat proses create user di dashboard
+     */
     public static function boot()
     {
         parent::boot();
 
-        static::creating(function ($user) {
-            // Set avatar_url dengan default jika tidak ada nilai
+        static::creating(function ($user) {            
             if (empty($user->avatar_url)) {
-                $user->avatar_url = 'avatars/default.jpg';
+                $user->avatar_url = 'avatars/default.jpg'; // Set avatar_url dengan default jika tidak ada nilai
             }
         });
     }    

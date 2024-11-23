@@ -13,13 +13,13 @@ class UserApiController extends Controller
      */
     public function index()
     {
-        $users = User::all();
+        // $users = User::all();
 
-        return response()->json([
-            'status'  => true, 
-            'data'    => $users, 
-            'message' => 'Success', 
-        ]);
+        // return response()->json([
+        //     'status'  => true, 
+        //     'data'    => $users, 
+        //     'message' => 'Success', 
+        // ]);
     }
 
     /**

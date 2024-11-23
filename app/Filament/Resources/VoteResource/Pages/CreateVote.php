@@ -7,6 +7,7 @@ use App\Filament\Resources\VoteResource;
 use Illuminate\Contracts\Support\Htmlable;
 use Illuminate\Contracts\View\View;
 use Filament\Notifications\Notification;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Validation\ValidationException;
 
 class CreateVote extends CreateRecordAndRedirectToIndex
@@ -44,5 +45,12 @@ class CreateVote extends CreateRecordAndRedirectToIndex
         {
             return $this->getUrl(['/']);
         }        
+
+    protected function mutateFormDataBeforeCreate(array $data): array
+    {        
+        $data['created_by'] = Auth::id(); // Tambahkan ID user yang sedang login ke kolom created_by
+    
+        return $data;
+    }         
 
 }

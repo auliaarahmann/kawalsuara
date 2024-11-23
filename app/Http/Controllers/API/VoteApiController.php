@@ -30,7 +30,8 @@ class VoteApiController extends Controller
             'paslon_1_vote' => 'required|integer',
             'paslon_2_vote' => 'required|integer',
             'paslon_3_vote' => 'required|integer',
-            'foto_c1_plano' => 'nullable|image|mimes:jpeg,png,jpg|max:2048',
+            'foto_c1_plano' => 'required|image|mimes:jpeg,png,jpg|max:7168',
+            'created_by'    => 'required|integer',
         ]);
 
         // Validasi kombinasi unik

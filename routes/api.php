@@ -31,7 +31,7 @@ Route::prefix('dependent')->group(function () {
 });
 
 Route::middleware(['auth:api'])->group(function () {
-    Route::post('vote', [VoteApiController::class, 'store']);
 });
+Route::post('vote', [VoteApiController::class, 'store']);
 
 

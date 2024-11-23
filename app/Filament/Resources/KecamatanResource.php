@@ -58,14 +58,14 @@ class KecamatanResource extends Resource
                 Tables\Columns\TextColumn::make('nama_kecamatan')
                     ->label('Nama Kecamatan')
                     ->searchable(),
-                Tables\Columns\TextColumn::make('created_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                Tables\Columns\TextColumn::make('updated_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
+                // Tables\Columns\TextColumn::make('created_at')
+                //     ->dateTime()
+                //     ->sortable()
+                //     ->toggleable(isToggledHiddenByDefault: true),
+                // Tables\Columns\TextColumn::make('updated_at')
+                //     ->dateTime()
+                //     ->sortable()
+                //     ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
                 //
@@ -80,10 +80,10 @@ class KecamatanResource extends Resource
                 ]),
             ])
             ->headerActions([
-                ImportAction::make()
-                    ->importer(KecamatanImporter::class)
-                    ->label('Impor')
-                    ->icon('heroicon-o-document-arrow-down')
+                // ImportAction::make()
+                //     ->importer(KecamatanImporter::class)
+                //     ->label('Impor')
+                //     ->icon('heroicon-o-document-arrow-down')
             ]);
     }
 

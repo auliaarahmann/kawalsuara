@@ -24,12 +24,17 @@ class TpsPolicy
         return true;
     }
 
+    public function deleteAny(User $user): bool
+    {
+        return $user->role == 'super_admin';
+    }
+        
     /**
      * Determine whether the user can create models.
      */
     public function create(User $user): bool
     {
-        return true;
+        return $user->role == 'super_admin';
     }
 
     /**
@@ -37,7 +42,7 @@ class TpsPolicy
      */
     public function update(User $user, Tps $tps): bool
     {
-        return true;
+        return $user->role == 'super_admin';
     }
 
     /**
@@ -45,7 +50,7 @@ class TpsPolicy
      */
     public function delete(User $user, Tps $tps): bool
     {
-        return true;
+        return $user->role == 'super_admin';
     }
 
     /**

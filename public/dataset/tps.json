@@ -1,0 +1,4940 @@
+[
+  {
+    "id": 52,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59328,
+    "nama_tps": "1"
+  },
+  {
+    "id": 114,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59328,
+    "nama_tps": "2"
+  },
+  {
+    "id": 53,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59337,
+    "nama_tps": "1"
+  },
+  {
+    "id": 113,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59337,
+    "nama_tps": "2"
+  },
+  {
+    "id": 54,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59347,
+    "nama_tps": "1"
+  },
+  {
+    "id": 112,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59347,
+    "nama_tps": "2"
+  },
+  {
+    "id": 55,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59351,
+    "nama_tps": "1"
+  },
+  {
+    "id": 56,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59355,
+    "nama_tps": "1"
+  },
+  {
+    "id": 124,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59355,
+    "nama_tps": "2"
+  },
+  {
+    "id": 57,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59362,
+    "nama_tps": "1"
+  },
+  {
+    "id": 58,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59366,
+    "nama_tps": "1"
+  },
+  {
+    "id": 59,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59370,
+    "nama_tps": "1"
+  },
+  {
+    "id": 60,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59377,
+    "nama_tps": "1"
+  },
+  {
+    "id": 118,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59377,
+    "nama_tps": "2"
+  },
+  {
+    "id": 61,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59381,
+    "nama_tps": "1"
+  },
+  {
+    "id": 62,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59403,
+    "nama_tps": "1"
+  },
+  {
+    "id": 63,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59409,
+    "nama_tps": "1"
+  },
+  {
+    "id": 119,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59409,
+    "nama_tps": "2"
+  },
+  {
+    "id": 64,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59416,
+    "nama_tps": "1"
+  },
+  {
+    "id": 65,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59417,
+    "nama_tps": "1"
+  },
+  {
+    "id": 122,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59417,
+    "nama_tps": "2"
+  },
+  {
+    "id": 66,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59424,
+    "nama_tps": "1"
+  },
+  {
+    "id": 67,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59430,
+    "nama_tps": "1"
+  },
+  {
+    "id": 68,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59445,
+    "nama_tps": "1"
+  },
+  {
+    "id": 69,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59447,
+    "nama_tps": "1"
+  },
+  {
+    "id": 70,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59453,
+    "nama_tps": "1"
+  },
+  {
+    "id": 71,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59460,
+    "nama_tps": "1"
+  },
+  {
+    "id": 72,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59462,
+    "nama_tps": "1"
+  },
+  {
+    "id": 73,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59466,
+    "nama_tps": "1"
+  },
+  {
+    "id": 74,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59471,
+    "nama_tps": "1"
+  },
+  {
+    "id": 123,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59471,
+    "nama_tps": "2"
+  },
+  {
+    "id": 75,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59473,
+    "nama_tps": "1"
+  },
+  {
+    "id": 76,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59478,
+    "nama_tps": "1"
+  },
+  {
+    "id": 116,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59478,
+    "nama_tps": "2"
+  },
+  {
+    "id": 77,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59484,
+    "nama_tps": "1"
+  },
+  {
+    "id": 117,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59484,
+    "nama_tps": "2"
+  },
+  {
+    "id": 78,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59486,
+    "nama_tps": "1"
+  },
+  {
+    "id": 79,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59493,
+    "nama_tps": "1"
+  },
+  {
+    "id": 80,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59679,
+    "nama_tps": "1"
+  },
+  {
+    "id": 81,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59690,
+    "nama_tps": "1"
+  },
+  {
+    "id": 82,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59696,
+    "nama_tps": "1"
+  },
+  {
+    "id": 83,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59704,
+    "nama_tps": "1"
+  },
+  {
+    "id": 84,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59714,
+    "nama_tps": "1"
+  },
+  {
+    "id": 85,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59720,
+    "nama_tps": "1"
+  },
+  {
+    "id": 86,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59729,
+    "nama_tps": "1"
+  },
+  {
+    "id": 87,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59749,
+    "nama_tps": "1"
+  },
+  {
+    "id": 88,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59753,
+    "nama_tps": "1"
+  },
+  {
+    "id": 89,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59757,
+    "nama_tps": "1"
+  },
+  {
+    "id": 90,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59761,
+    "nama_tps": "1"
+  },
+  {
+    "id": 121,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59761,
+    "nama_tps": "2"
+  },
+  {
+    "id": 91,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59765,
+    "nama_tps": "1"
+  },
+  {
+    "id": 120,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59765,
+    "nama_tps": "2"
+  },
+  {
+    "id": 92,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59773,
+    "nama_tps": "1"
+  },
+  {
+    "id": 93,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59780,
+    "nama_tps": "1"
+  },
+  {
+    "id": 94,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59788,
+    "nama_tps": "1"
+  },
+  {
+    "id": 95,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59799,
+    "nama_tps": "1"
+  },
+  {
+    "id": 96,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59803,
+    "nama_tps": "1"
+  },
+  {
+    "id": 115,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59803,
+    "nama_tps": "2"
+  },
+  {
+    "id": 97,
+    "kecamatan_id": 1778,
+    "kelurahan_id": 59814,
+    "nama_tps": "1"
+  },
+  {
+    "id": 125,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58370,
+    "nama_tps": "1"
+  },
+  {
+    "id": 126,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58370,
+    "nama_tps": "2"
+  },
+  {
+    "id": 127,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58377,
+    "nama_tps": "1"
+  },
+  {
+    "id": 128,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58377,
+    "nama_tps": "2"
+  },
+  {
+    "id": 129,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58393,
+    "nama_tps": "1"
+  },
+  {
+    "id": 130,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58403,
+    "nama_tps": "1"
+  },
+  {
+    "id": 131,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58403,
+    "nama_tps": "2"
+  },
+  {
+    "id": 132,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58414,
+    "nama_tps": "1"
+  },
+  {
+    "id": 133,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58414,
+    "nama_tps": "2"
+  },
+  {
+    "id": 134,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58414,
+    "nama_tps": "3"
+  },
+  {
+    "id": 135,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58467,
+    "nama_tps": "1"
+  },
+  {
+    "id": 136,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58467,
+    "nama_tps": "2"
+  },
+  {
+    "id": 137,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58467,
+    "nama_tps": "3"
+  },
+  {
+    "id": 138,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58499,
+    "nama_tps": "1"
+  },
+  {
+    "id": 139,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58518,
+    "nama_tps": "1"
+  },
+  {
+    "id": 140,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58533,
+    "nama_tps": "1"
+  },
+  {
+    "id": 141,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58533,
+    "nama_tps": "2"
+  },
+  {
+    "id": 142,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58542,
+    "nama_tps": "1"
+  },
+  {
+    "id": 143,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58542,
+    "nama_tps": "2"
+  },
+  {
+    "id": 144,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58549,
+    "nama_tps": "1"
+  },
+  {
+    "id": 145,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58549,
+    "nama_tps": "2"
+  },
+  {
+    "id": 146,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58553,
+    "nama_tps": "1"
+  },
+  {
+    "id": 147,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58563,
+    "nama_tps": "1"
+  },
+  {
+    "id": 148,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58569,
+    "nama_tps": "1"
+  },
+  {
+    "id": 149,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58574,
+    "nama_tps": "1"
+  },
+  {
+    "id": 150,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58578,
+    "nama_tps": "1"
+  },
+  {
+    "id": 151,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58578,
+    "nama_tps": "2"
+  },
+  {
+    "id": 152,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58582,
+    "nama_tps": "1"
+  },
+  {
+    "id": 153,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58587,
+    "nama_tps": "1"
+  },
+  {
+    "id": 154,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58595,
+    "nama_tps": "1"
+  },
+  {
+    "id": 155,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58595,
+    "nama_tps": "2"
+  },
+  {
+    "id": 156,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58604,
+    "nama_tps": "1"
+  },
+  {
+    "id": 157,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58604,
+    "nama_tps": "2"
+  },
+  {
+    "id": 158,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58670,
+    "nama_tps": "1"
+  },
+  {
+    "id": 159,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58688,
+    "nama_tps": "1"
+  },
+  {
+    "id": 160,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58688,
+    "nama_tps": "2"
+  },
+  {
+    "id": 161,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58697,
+    "nama_tps": "1"
+  },
+  {
+    "id": 162,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58786,
+    "nama_tps": "1"
+  },
+  {
+    "id": 163,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58786,
+    "nama_tps": "2"
+  },
+  {
+    "id": 164,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58800,
+    "nama_tps": "1"
+  },
+  {
+    "id": 165,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58800,
+    "nama_tps": "2"
+  },
+  {
+    "id": 166,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58811,
+    "nama_tps": "1"
+  },
+  {
+    "id": 167,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58811,
+    "nama_tps": "2"
+  },
+  {
+    "id": 168,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58811,
+    "nama_tps": "3"
+  },
+  {
+    "id": 169,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58822,
+    "nama_tps": "1"
+  },
+  {
+    "id": 170,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58822,
+    "nama_tps": "2"
+  },
+  {
+    "id": 171,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58837,
+    "nama_tps": "1"
+  },
+  {
+    "id": 172,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58837,
+    "nama_tps": "2"
+  },
+  {
+    "id": 173,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58842,
+    "nama_tps": "1"
+  },
+  {
+    "id": 174,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58850,
+    "nama_tps": "1"
+  },
+  {
+    "id": 175,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58850,
+    "nama_tps": "2"
+  },
+  {
+    "id": 176,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58861,
+    "nama_tps": "1"
+  },
+  {
+    "id": 177,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58870,
+    "nama_tps": "1"
+  },
+  {
+    "id": 178,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58880,
+    "nama_tps": "1"
+  },
+  {
+    "id": 179,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58897,
+    "nama_tps": "1"
+  },
+  {
+    "id": 180,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58897,
+    "nama_tps": "2"
+  },
+  {
+    "id": 181,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58920,
+    "nama_tps": "1"
+  },
+  {
+    "id": 182,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58920,
+    "nama_tps": "2"
+  },
+  {
+    "id": 183,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58947,
+    "nama_tps": "1"
+  },
+  {
+    "id": 184,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58961,
+    "nama_tps": "1"
+  },
+  {
+    "id": 185,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58961,
+    "nama_tps": "2"
+  },
+  {
+    "id": 186,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 58989,
+    "nama_tps": "1"
+  },
+  {
+    "id": 187,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 59004,
+    "nama_tps": "1"
+  },
+  {
+    "id": 188,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 59019,
+    "nama_tps": "1"
+  },
+  {
+    "id": 189,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 59019,
+    "nama_tps": "2"
+  },
+  {
+    "id": 190,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 59038,
+    "nama_tps": "1"
+  },
+  {
+    "id": 191,
+    "kecamatan_id": 1828,
+    "kelurahan_id": 59060,
+    "nama_tps": "1"
+  },
+  {
+    "id": 294,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58418,
+    "nama_tps": "1"
+  },
+  {
+    "id": 295,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58440,
+    "nama_tps": "1"
+  },
+  {
+    "id": 296,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58440,
+    "nama_tps": "2"
+  },
+  {
+    "id": 297,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58459,
+    "nama_tps": "1"
+  },
+  {
+    "id": 298,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58459,
+    "nama_tps": "2"
+  },
+  {
+    "id": 299,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58463,
+    "nama_tps": "1"
+  },
+  {
+    "id": 300,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58473,
+    "nama_tps": "1"
+  },
+  {
+    "id": 301,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58480,
+    "nama_tps": "1"
+  },
+  {
+    "id": 302,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58485,
+    "nama_tps": "1"
+  },
+  {
+    "id": 303,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58488,
+    "nama_tps": "1"
+  },
+  {
+    "id": 304,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58506,
+    "nama_tps": "1"
+  },
+  {
+    "id": 305,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58515,
+    "nama_tps": "1"
+  },
+  {
+    "id": 306,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58522,
+    "nama_tps": "1"
+  },
+  {
+    "id": 307,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58531,
+    "nama_tps": "1"
+  },
+  {
+    "id": 308,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58534,
+    "nama_tps": "1"
+  },
+  {
+    "id": 309,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58547,
+    "nama_tps": "1"
+  },
+  {
+    "id": 310,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58548,
+    "nama_tps": "1"
+  },
+  {
+    "id": 311,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58565,
+    "nama_tps": "1"
+  },
+  {
+    "id": 312,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58565,
+    "nama_tps": "2"
+  },
+  {
+    "id": 313,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58567,
+    "nama_tps": "1"
+  },
+  {
+    "id": 314,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58567,
+    "nama_tps": "2"
+  },
+  {
+    "id": 315,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58583,
+    "nama_tps": "1"
+  },
+  {
+    "id": 316,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58605,
+    "nama_tps": "1"
+  },
+  {
+    "id": 317,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58614,
+    "nama_tps": "1"
+  },
+  {
+    "id": 318,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58614,
+    "nama_tps": "2"
+  },
+  {
+    "id": 319,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58618,
+    "nama_tps": "1"
+  },
+  {
+    "id": 320,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58629,
+    "nama_tps": "1"
+  },
+  {
+    "id": 321,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58635,
+    "nama_tps": "1"
+  },
+  {
+    "id": 322,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58646,
+    "nama_tps": "1"
+  },
+  {
+    "id": 323,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58662,
+    "nama_tps": "1"
+  },
+  {
+    "id": 324,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58678,
+    "nama_tps": "1"
+  },
+  {
+    "id": 325,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58698,
+    "nama_tps": "1"
+  },
+  {
+    "id": 326,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58704,
+    "nama_tps": "1"
+  },
+  {
+    "id": 327,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58719,
+    "nama_tps": "1"
+  },
+  {
+    "id": 328,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58761,
+    "nama_tps": "1"
+  },
+  {
+    "id": 329,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58767,
+    "nama_tps": "1"
+  },
+  {
+    "id": 330,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58770,
+    "nama_tps": "1"
+  },
+  {
+    "id": 331,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58770,
+    "nama_tps": "2"
+  },
+  {
+    "id": 332,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58775,
+    "nama_tps": "1"
+  },
+  {
+    "id": 333,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58775,
+    "nama_tps": "2"
+  },
+  {
+    "id": 334,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58781,
+    "nama_tps": "1"
+  },
+  {
+    "id": 335,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58781,
+    "nama_tps": "2"
+  },
+  {
+    "id": 336,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58788,
+    "nama_tps": "1"
+  },
+  {
+    "id": 337,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58796,
+    "nama_tps": "1"
+  },
+  {
+    "id": 338,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58803,
+    "nama_tps": "1"
+  },
+  {
+    "id": 339,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58812,
+    "nama_tps": "1"
+  },
+  {
+    "id": 340,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58820,
+    "nama_tps": "1"
+  },
+  {
+    "id": 341,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58827,
+    "nama_tps": "1"
+  },
+  {
+    "id": 342,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58835,
+    "nama_tps": "1"
+  },
+  {
+    "id": 343,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58848,
+    "nama_tps": "1"
+  },
+  {
+    "id": 344,
+    "kecamatan_id": 1836,
+    "kelurahan_id": 58857,
+    "nama_tps": "1"
+  },
+  {
+    "id": 12,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 63790,
+    "nama_tps": "1"
+  },
+  {
+    "id": 13,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 63797,
+    "nama_tps": "1"
+  },
+  {
+    "id": 100,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 63797,
+    "nama_tps": "2"
+  },
+  {
+    "id": 14,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 63809,
+    "nama_tps": "1"
+  },
+  {
+    "id": 15,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64069,
+    "nama_tps": "1"
+  },
+  {
+    "id": 108,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64069,
+    "nama_tps": "2"
+  },
+  {
+    "id": 16,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64083,
+    "nama_tps": "1"
+  },
+  {
+    "id": 17,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64121,
+    "nama_tps": "1"
+  },
+  {
+    "id": 18,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64135,
+    "nama_tps": "1"
+  },
+  {
+    "id": 19,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64146,
+    "nama_tps": "1"
+  },
+  {
+    "id": 20,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64172,
+    "nama_tps": "1"
+  },
+  {
+    "id": 107,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64172,
+    "nama_tps": "2"
+  },
+  {
+    "id": 21,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64175,
+    "nama_tps": "1"
+  },
+  {
+    "id": 22,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64179,
+    "nama_tps": "1"
+  },
+  {
+    "id": 23,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64185,
+    "nama_tps": "1"
+  },
+  {
+    "id": 24,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64194,
+    "nama_tps": "1"
+  },
+  {
+    "id": 25,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64211,
+    "nama_tps": "1"
+  },
+  {
+    "id": 26,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64225,
+    "nama_tps": "1"
+  },
+  {
+    "id": 105,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64225,
+    "nama_tps": "2"
+  },
+  {
+    "id": 27,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64226,
+    "nama_tps": "1"
+  },
+  {
+    "id": 28,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64227,
+    "nama_tps": "1"
+  },
+  {
+    "id": 29,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64233,
+    "nama_tps": "1"
+  },
+  {
+    "id": 30,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64234,
+    "nama_tps": "1"
+  },
+  {
+    "id": 102,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64234,
+    "nama_tps": "2"
+  },
+  {
+    "id": 31,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64243,
+    "nama_tps": "1"
+  },
+  {
+    "id": 32,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64247,
+    "nama_tps": "1"
+  },
+  {
+    "id": 33,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64254,
+    "nama_tps": "1"
+  },
+  {
+    "id": 104,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64254,
+    "nama_tps": "2"
+  },
+  {
+    "id": 34,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64259,
+    "nama_tps": "1"
+  },
+  {
+    "id": 103,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64259,
+    "nama_tps": "2"
+  },
+  {
+    "id": 35,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64267,
+    "nama_tps": "1"
+  },
+  {
+    "id": 36,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64272,
+    "nama_tps": "1"
+  },
+  {
+    "id": 37,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64277,
+    "nama_tps": "1"
+  },
+  {
+    "id": 38,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64284,
+    "nama_tps": "1"
+  },
+  {
+    "id": 39,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64286,
+    "nama_tps": "1"
+  },
+  {
+    "id": 40,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64295,
+    "nama_tps": "1"
+  },
+  {
+    "id": 111,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64295,
+    "nama_tps": "2"
+  },
+  {
+    "id": 41,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64297,
+    "nama_tps": "1"
+  },
+  {
+    "id": 110,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64297,
+    "nama_tps": "2"
+  },
+  {
+    "id": 42,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64306,
+    "nama_tps": "1"
+  },
+  {
+    "id": 43,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64313,
+    "nama_tps": "1"
+  },
+  {
+    "id": 109,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64313,
+    "nama_tps": "2"
+  },
+  {
+    "id": 44,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64320,
+    "nama_tps": "1"
+  },
+  {
+    "id": 45,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64334,
+    "nama_tps": "1"
+  },
+  {
+    "id": 98,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64334,
+    "nama_tps": "2"
+  },
+  {
+    "id": 46,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64340,
+    "nama_tps": "1"
+  },
+  {
+    "id": 47,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64346,
+    "nama_tps": "1"
+  },
+  {
+    "id": 48,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64351,
+    "nama_tps": "1"
+  },
+  {
+    "id": 101,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64351,
+    "nama_tps": "2"
+  },
+  {
+    "id": 49,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64355,
+    "nama_tps": "1"
+  },
+  {
+    "id": 99,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64355,
+    "nama_tps": "2"
+  },
+  {
+    "id": 50,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64363,
+    "nama_tps": "1"
+  },
+  {
+    "id": 51,
+    "kecamatan_id": 1958,
+    "kelurahan_id": 64367,
+    "nama_tps": "1"
+  },
+  {
+    "id": 345,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57809,
+    "nama_tps": "1"
+  },
+  {
+    "id": 346,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57818,
+    "nama_tps": "1"
+  },
+  {
+    "id": 347,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57826,
+    "nama_tps": "1"
+  },
+  {
+    "id": 348,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57826,
+    "nama_tps": "2"
+  },
+  {
+    "id": 349,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57835,
+    "nama_tps": "1"
+  },
+  {
+    "id": 350,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57843,
+    "nama_tps": "1"
+  },
+  {
+    "id": 351,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57853,
+    "nama_tps": "1"
+  },
+  {
+    "id": 403,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57853,
+    "nama_tps": "2"
+  },
+  {
+    "id": 352,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57860,
+    "nama_tps": "1"
+  },
+  {
+    "id": 401,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57860,
+    "nama_tps": "2"
+  },
+  {
+    "id": 353,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57864,
+    "nama_tps": "1"
+  },
+  {
+    "id": 354,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57868,
+    "nama_tps": "1"
+  },
+  {
+    "id": 355,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57872,
+    "nama_tps": "1"
+  },
+  {
+    "id": 356,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57872,
+    "nama_tps": "2"
+  },
+  {
+    "id": 357,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57872,
+    "nama_tps": "3"
+  },
+  {
+    "id": 358,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57878,
+    "nama_tps": "1"
+  },
+  {
+    "id": 359,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57882,
+    "nama_tps": "1"
+  },
+  {
+    "id": 360,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57882,
+    "nama_tps": "2"
+  },
+  {
+    "id": 361,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57889,
+    "nama_tps": "1"
+  },
+  {
+    "id": 362,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57894,
+    "nama_tps": "1"
+  },
+  {
+    "id": 363,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57894,
+    "nama_tps": "2"
+  },
+  {
+    "id": 364,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57910,
+    "nama_tps": "1"
+  },
+  {
+    "id": 365,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57910,
+    "nama_tps": "2"
+  },
+  {
+    "id": 366,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57919,
+    "nama_tps": "1"
+  },
+  {
+    "id": 367,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57926,
+    "nama_tps": "1"
+  },
+  {
+    "id": 368,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57932,
+    "nama_tps": "1"
+  },
+  {
+    "id": 397,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57932,
+    "nama_tps": "2"
+  },
+  {
+    "id": 369,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57938,
+    "nama_tps": "1"
+  },
+  {
+    "id": 370,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57959,
+    "nama_tps": "1"
+  },
+  {
+    "id": 371,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57959,
+    "nama_tps": "2"
+  },
+  {
+    "id": 372,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57966,
+    "nama_tps": "1"
+  },
+  {
+    "id": 373,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57974,
+    "nama_tps": "1"
+  },
+  {
+    "id": 374,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57985,
+    "nama_tps": "1"
+  },
+  {
+    "id": 375,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 57985,
+    "nama_tps": "2"
+  },
+  {
+    "id": 376,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58466,
+    "nama_tps": "1"
+  },
+  {
+    "id": 377,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58466,
+    "nama_tps": "2"
+  },
+  {
+    "id": 378,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58486,
+    "nama_tps": "1"
+  },
+  {
+    "id": 379,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58504,
+    "nama_tps": "1"
+  },
+  {
+    "id": 380,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58523,
+    "nama_tps": "1"
+  },
+  {
+    "id": 381,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58523,
+    "nama_tps": "2"
+  },
+  {
+    "id": 382,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58564,
+    "nama_tps": "1"
+  },
+  {
+    "id": 400,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58564,
+    "nama_tps": "2"
+  },
+  {
+    "id": 383,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58581,
+    "nama_tps": "1"
+  },
+  {
+    "id": 384,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58581,
+    "nama_tps": "2"
+  },
+  {
+    "id": 385,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58581,
+    "nama_tps": "3"
+  },
+  {
+    "id": 386,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58596,
+    "nama_tps": "1"
+  },
+  {
+    "id": 387,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58607,
+    "nama_tps": "1"
+  },
+  {
+    "id": 388,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58607,
+    "nama_tps": "2"
+  },
+  {
+    "id": 389,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58607,
+    "nama_tps": "3"
+  },
+  {
+    "id": 390,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58613,
+    "nama_tps": "1"
+  },
+  {
+    "id": 391,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58619,
+    "nama_tps": "1"
+  },
+  {
+    "id": 404,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58619,
+    "nama_tps": "2"
+  },
+  {
+    "id": 392,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58630,
+    "nama_tps": "1"
+  },
+  {
+    "id": 393,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58630,
+    "nama_tps": "2"
+  },
+  {
+    "id": 394,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58636,
+    "nama_tps": "1"
+  },
+  {
+    "id": 406,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58636,
+    "nama_tps": "2"
+  },
+  {
+    "id": 407,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58636,
+    "nama_tps": "3"
+  },
+  {
+    "id": 395,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58652,
+    "nama_tps": "1"
+  },
+  {
+    "id": 399,
+    "kecamatan_id": 2070,
+    "kelurahan_id": 58652,
+    "nama_tps": "2"
+  },
+  {
+    "id": 408,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50245,
+    "nama_tps": "1"
+  },
+  {
+    "id": 409,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50245,
+    "nama_tps": "2"
+  },
+  {
+    "id": 410,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50245,
+    "nama_tps": "3"
+  },
+  {
+    "id": 411,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50245,
+    "nama_tps": "4"
+  },
+  {
+    "id": 412,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50252,
+    "nama_tps": "1"
+  },
+  {
+    "id": 413,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50252,
+    "nama_tps": "2"
+  },
+  {
+    "id": 414,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50252,
+    "nama_tps": "3"
+  },
+  {
+    "id": 415,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50252,
+    "nama_tps": "4"
+  },
+  {
+    "id": 416,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50261,
+    "nama_tps": "1"
+  },
+  {
+    "id": 417,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50261,
+    "nama_tps": "2"
+  },
+  {
+    "id": 418,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50261,
+    "nama_tps": "3"
+  },
+  {
+    "id": 419,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50261,
+    "nama_tps": "4"
+  },
+  {
+    "id": 420,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50270,
+    "nama_tps": "1"
+  },
+  {
+    "id": 421,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50270,
+    "nama_tps": "2"
+  },
+  {
+    "id": 422,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50270,
+    "nama_tps": "3"
+  },
+  {
+    "id": 423,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50270,
+    "nama_tps": "4"
+  },
+  {
+    "id": 424,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50270,
+    "nama_tps": "5"
+  },
+  {
+    "id": 425,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50277,
+    "nama_tps": "1"
+  },
+  {
+    "id": 426,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50277,
+    "nama_tps": "2"
+  },
+  {
+    "id": 427,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50277,
+    "nama_tps": "3"
+  },
+  {
+    "id": 428,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50277,
+    "nama_tps": "4"
+  },
+  {
+    "id": 429,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50287,
+    "nama_tps": "1"
+  },
+  {
+    "id": 430,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50287,
+    "nama_tps": "2"
+  },
+  {
+    "id": 431,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50287,
+    "nama_tps": "3"
+  },
+  {
+    "id": 432,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50291,
+    "nama_tps": "1"
+  },
+  {
+    "id": 433,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50296,
+    "nama_tps": "1"
+  },
+  {
+    "id": 434,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50300,
+    "nama_tps": "1"
+  },
+  {
+    "id": 435,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50300,
+    "nama_tps": "2"
+  },
+  {
+    "id": 436,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50316,
+    "nama_tps": "1"
+  },
+  {
+    "id": 437,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50316,
+    "nama_tps": "2"
+  },
+  {
+    "id": 438,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50326,
+    "nama_tps": "1"
+  },
+  {
+    "id": 439,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50332,
+    "nama_tps": "1"
+  },
+  {
+    "id": 440,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50342,
+    "nama_tps": "1"
+  },
+  {
+    "id": 441,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50342,
+    "nama_tps": "2"
+  },
+  {
+    "id": 442,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50345,
+    "nama_tps": "1"
+  },
+  {
+    "id": 443,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50345,
+    "nama_tps": "2"
+  },
+  {
+    "id": 444,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50349,
+    "nama_tps": "1"
+  },
+  {
+    "id": 445,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50349,
+    "nama_tps": "2"
+  },
+  {
+    "id": 446,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50349,
+    "nama_tps": "3"
+  },
+  {
+    "id": 447,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50349,
+    "nama_tps": "4"
+  },
+  {
+    "id": 448,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50349,
+    "nama_tps": "5"
+  },
+  {
+    "id": 449,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50352,
+    "nama_tps": "1"
+  },
+  {
+    "id": 450,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50352,
+    "nama_tps": "2"
+  },
+  {
+    "id": 451,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50355,
+    "nama_tps": "1"
+  },
+  {
+    "id": 452,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50355,
+    "nama_tps": "2"
+  },
+  {
+    "id": 453,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50355,
+    "nama_tps": "3"
+  },
+  {
+    "id": 454,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50355,
+    "nama_tps": "4"
+  },
+  {
+    "id": 455,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50355,
+    "nama_tps": "5"
+  },
+  {
+    "id": 456,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50359,
+    "nama_tps": "1"
+  },
+  {
+    "id": 457,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50359,
+    "nama_tps": "2"
+  },
+  {
+    "id": 458,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50359,
+    "nama_tps": "3"
+  },
+  {
+    "id": 459,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50366,
+    "nama_tps": "1"
+  },
+  {
+    "id": 460,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50366,
+    "nama_tps": "2"
+  },
+  {
+    "id": 461,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50366,
+    "nama_tps": "3"
+  },
+  {
+    "id": 462,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50366,
+    "nama_tps": "4"
+  },
+  {
+    "id": 463,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50366,
+    "nama_tps": "5"
+  },
+  {
+    "id": 464,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50372,
+    "nama_tps": "1"
+  },
+  {
+    "id": 465,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50372,
+    "nama_tps": "2"
+  },
+  {
+    "id": 466,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50372,
+    "nama_tps": "3"
+  },
+  {
+    "id": 467,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50378,
+    "nama_tps": "1"
+  },
+  {
+    "id": 468,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50378,
+    "nama_tps": "2"
+  },
+  {
+    "id": 469,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50378,
+    "nama_tps": "3"
+  },
+  {
+    "id": 470,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50378,
+    "nama_tps": "4"
+  },
+  {
+    "id": 471,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50381,
+    "nama_tps": "1"
+  },
+  {
+    "id": 472,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50381,
+    "nama_tps": "2"
+  },
+  {
+    "id": 473,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50381,
+    "nama_tps": "3"
+  },
+  {
+    "id": 474,
+    "kecamatan_id": 2333,
+    "kelurahan_id": 50392,
+    "nama_tps": "1"
+  },
+  {
+    "id": 475,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 48911,
+    "nama_tps": "1"
+  },
+  {
+    "id": 476,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 48918,
+    "nama_tps": "1"
+  },
+  {
+    "id": 477,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 48940,
+    "nama_tps": "1"
+  },
+  {
+    "id": 478,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 48940,
+    "nama_tps": "2"
+  },
+  {
+    "id": 479,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 48947,
+    "nama_tps": "1"
+  },
+  {
+    "id": 480,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 48954,
+    "nama_tps": "1"
+  },
+  {
+    "id": 481,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 48993,
+    "nama_tps": "1"
+  },
+  {
+    "id": 482,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49010,
+    "nama_tps": "1"
+  },
+  {
+    "id": 483,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49016,
+    "nama_tps": "1"
+  },
+  {
+    "id": 484,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49016,
+    "nama_tps": "2"
+  },
+  {
+    "id": 485,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49025,
+    "nama_tps": "1"
+  },
+  {
+    "id": 486,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49025,
+    "nama_tps": "2"
+  },
+  {
+    "id": 487,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49035,
+    "nama_tps": "1"
+  },
+  {
+    "id": 488,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49035,
+    "nama_tps": "2"
+  },
+  {
+    "id": 489,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49040,
+    "nama_tps": "1"
+  },
+  {
+    "id": 490,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49040,
+    "nama_tps": "2"
+  },
+  {
+    "id": 491,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49057,
+    "nama_tps": "1"
+  },
+  {
+    "id": 492,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49057,
+    "nama_tps": "2"
+  },
+  {
+    "id": 493,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49057,
+    "nama_tps": "3"
+  },
+  {
+    "id": 494,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49065,
+    "nama_tps": "1"
+  },
+  {
+    "id": 495,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49080,
+    "nama_tps": "1"
+  },
+  {
+    "id": 496,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49080,
+    "nama_tps": "2"
+  },
+  {
+    "id": 497,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49080,
+    "nama_tps": "3"
+  },
+  {
+    "id": 498,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49171,
+    "nama_tps": "1"
+  },
+  {
+    "id": 499,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49171,
+    "nama_tps": "2"
+  },
+  {
+    "id": 500,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49182,
+    "nama_tps": "1"
+  },
+  {
+    "id": 501,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49182,
+    "nama_tps": "2"
+  },
+  {
+    "id": 502,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49219,
+    "nama_tps": "1"
+  },
+  {
+    "id": 503,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49219,
+    "nama_tps": "2"
+  },
+  {
+    "id": 504,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49442,
+    "nama_tps": "1"
+  },
+  {
+    "id": 505,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49561,
+    "nama_tps": "1"
+  },
+  {
+    "id": 506,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49561,
+    "nama_tps": "2"
+  },
+  {
+    "id": 507,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49561,
+    "nama_tps": "3"
+  },
+  {
+    "id": 508,
+    "kecamatan_id": 2892,
+    "kelurahan_id": 49577,
+    "nama_tps": "1"
+  },
+  {
+    "id": 509,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48085,
+    "nama_tps": "1"
+  },
+  {
+    "id": 510,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48091,
+    "nama_tps": "1"
+  },
+  {
+    "id": 511,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48095,
+    "nama_tps": "1"
+  },
+  {
+    "id": 512,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48097,
+    "nama_tps": "1"
+  },
+  {
+    "id": 513,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48097,
+    "nama_tps": "2"
+  },
+  {
+    "id": 514,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48099,
+    "nama_tps": "1"
+  },
+  {
+    "id": 515,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48099,
+    "nama_tps": "2"
+  },
+  {
+    "id": 516,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48103,
+    "nama_tps": "1"
+  },
+  {
+    "id": 517,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48107,
+    "nama_tps": "1"
+  },
+  {
+    "id": 518,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48111,
+    "nama_tps": "1"
+  },
+  {
+    "id": 519,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48111,
+    "nama_tps": "2"
+  },
+  {
+    "id": 520,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48115,
+    "nama_tps": "1"
+  },
+  {
+    "id": 521,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48119,
+    "nama_tps": "1"
+  },
+  {
+    "id": 522,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48123,
+    "nama_tps": "1"
+  },
+  {
+    "id": 523,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48127,
+    "nama_tps": "1"
+  },
+  {
+    "id": 524,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48132,
+    "nama_tps": "1"
+  },
+  {
+    "id": 525,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48137,
+    "nama_tps": "1"
+  },
+  {
+    "id": 526,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48141,
+    "nama_tps": "1"
+  },
+  {
+    "id": 527,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48145,
+    "nama_tps": "1"
+  },
+  {
+    "id": 528,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48149,
+    "nama_tps": "1"
+  },
+  {
+    "id": 529,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48156,
+    "nama_tps": "1"
+  },
+  {
+    "id": 530,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48163,
+    "nama_tps": "1"
+  },
+  {
+    "id": 531,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48168,
+    "nama_tps": "1"
+  },
+  {
+    "id": 532,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48173,
+    "nama_tps": "1"
+  },
+  {
+    "id": 533,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48179,
+    "nama_tps": "1"
+  },
+  {
+    "id": 534,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48186,
+    "nama_tps": "1"
+  },
+  {
+    "id": 535,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48193,
+    "nama_tps": "1"
+  },
+  {
+    "id": 536,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48201,
+    "nama_tps": "1"
+  },
+  {
+    "id": 537,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48201,
+    "nama_tps": "2"
+  },
+  {
+    "id": 538,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48208,
+    "nama_tps": "1"
+  },
+  {
+    "id": 539,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48216,
+    "nama_tps": "1"
+  },
+  {
+    "id": 540,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48223,
+    "nama_tps": "1"
+  },
+  {
+    "id": 541,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48229,
+    "nama_tps": "1"
+  },
+  {
+    "id": 542,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48233,
+    "nama_tps": "1"
+  },
+  {
+    "id": 543,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48239,
+    "nama_tps": "1"
+  },
+  {
+    "id": 544,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48247,
+    "nama_tps": "1"
+  },
+  {
+    "id": 545,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48254,
+    "nama_tps": "1"
+  },
+  {
+    "id": 546,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48263,
+    "nama_tps": "1"
+  },
+  {
+    "id": 547,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48271,
+    "nama_tps": "1"
+  },
+  {
+    "id": 548,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48282,
+    "nama_tps": "1"
+  },
+  {
+    "id": 549,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48298,
+    "nama_tps": "1"
+  },
+  {
+    "id": 550,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48304,
+    "nama_tps": "1"
+  },
+  {
+    "id": 551,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48312,
+    "nama_tps": "1"
+  },
+  {
+    "id": 552,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48312,
+    "nama_tps": "2"
+  },
+  {
+    "id": 553,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48312,
+    "nama_tps": "3"
+  },
+  {
+    "id": 554,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48312,
+    "nama_tps": "4"
+  },
+  {
+    "id": 555,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48319,
+    "nama_tps": "1"
+  },
+  {
+    "id": 556,
+    "kecamatan_id": 3619,
+    "kelurahan_id": 48325,
+    "nama_tps": "1"
+  },
+  {
+    "id": 557,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43327,
+    "nama_tps": "1"
+  },
+  {
+    "id": 558,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43338,
+    "nama_tps": "1"
+  },
+  {
+    "id": 559,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43345,
+    "nama_tps": "1"
+  },
+  {
+    "id": 560,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43360,
+    "nama_tps": "1"
+  },
+  {
+    "id": 561,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43371,
+    "nama_tps": "1"
+  },
+  {
+    "id": 562,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43381,
+    "nama_tps": "1"
+  },
+  {
+    "id": 563,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43399,
+    "nama_tps": "1"
+  },
+  {
+    "id": 564,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43426,
+    "nama_tps": "1"
+  },
+  {
+    "id": 565,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43436,
+    "nama_tps": "1"
+  },
+  {
+    "id": 566,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43447,
+    "nama_tps": "1"
+  },
+  {
+    "id": 567,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43461,
+    "nama_tps": "1"
+  },
+  {
+    "id": 568,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43461,
+    "nama_tps": "2"
+  },
+  {
+    "id": 569,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43469,
+    "nama_tps": "1"
+  },
+  {
+    "id": 570,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43485,
+    "nama_tps": "1"
+  },
+  {
+    "id": 571,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43499,
+    "nama_tps": "1"
+  },
+  {
+    "id": 572,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43499,
+    "nama_tps": "2"
+  },
+  {
+    "id": 573,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43506,
+    "nama_tps": "1"
+  },
+  {
+    "id": 574,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43521,
+    "nama_tps": "1"
+  },
+  {
+    "id": 575,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43521,
+    "nama_tps": "2"
+  },
+  {
+    "id": 576,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43532,
+    "nama_tps": "1"
+  },
+  {
+    "id": 577,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43546,
+    "nama_tps": "1"
+  },
+  {
+    "id": 578,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43557,
+    "nama_tps": "1"
+  },
+  {
+    "id": 579,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43569,
+    "nama_tps": "1"
+  },
+  {
+    "id": 580,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43583,
+    "nama_tps": "1"
+  },
+  {
+    "id": 581,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43598,
+    "nama_tps": "1"
+  },
+  {
+    "id": 582,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43612,
+    "nama_tps": "1"
+  },
+  {
+    "id": 583,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43633,
+    "nama_tps": "1"
+  },
+  {
+    "id": 584,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43633,
+    "nama_tps": "2"
+  },
+  {
+    "id": 585,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43644,
+    "nama_tps": "1"
+  },
+  {
+    "id": 586,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43667,
+    "nama_tps": "1"
+  },
+  {
+    "id": 587,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43672,
+    "nama_tps": "1"
+  },
+  {
+    "id": 588,
+    "kecamatan_id": 3801,
+    "kelurahan_id": 43672,
+    "nama_tps": "2"
+  },
+  {
+    "id": 589,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31626,
+    "nama_tps": "1"
+  },
+  {
+    "id": 590,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31632,
+    "nama_tps": "1"
+  },
+  {
+    "id": 591,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31634,
+    "nama_tps": "1"
+  },
+  {
+    "id": 592,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31639,
+    "nama_tps": "1"
+  },
+  {
+    "id": 593,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31643,
+    "nama_tps": "1"
+  },
+  {
+    "id": 594,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31646,
+    "nama_tps": "1"
+  },
+  {
+    "id": 595,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31651,
+    "nama_tps": "1"
+  },
+  {
+    "id": 596,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31652,
+    "nama_tps": "1"
+  },
+  {
+    "id": 597,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31655,
+    "nama_tps": "1"
+  },
+  {
+    "id": 598,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31657,
+    "nama_tps": "1"
+  },
+  {
+    "id": 599,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31659,
+    "nama_tps": "1"
+  },
+  {
+    "id": 600,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31662,
+    "nama_tps": "1"
+  },
+  {
+    "id": 601,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31687,
+    "nama_tps": "1"
+  },
+  {
+    "id": 602,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31691,
+    "nama_tps": "1"
+  },
+  {
+    "id": 603,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31694,
+    "nama_tps": "1"
+  },
+  {
+    "id": 604,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31699,
+    "nama_tps": "1"
+  },
+  {
+    "id": 605,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31700,
+    "nama_tps": "1"
+  },
+  {
+    "id": 606,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31706,
+    "nama_tps": "1"
+  },
+  {
+    "id": 607,
+    "kecamatan_id": 3838,
+    "kelurahan_id": 31711,
+    "nama_tps": "1"
+  },
+  {
+    "id": 608,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28247,
+    "nama_tps": "1"
+  },
+  {
+    "id": 609,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28252,
+    "nama_tps": "1"
+  },
+  {
+    "id": 610,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28258,
+    "nama_tps": "1"
+  },
+  {
+    "id": 611,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28265,
+    "nama_tps": "1"
+  },
+  {
+    "id": 612,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28272,
+    "nama_tps": "1"
+  },
+  {
+    "id": 613,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28285,
+    "nama_tps": "1"
+  },
+  {
+    "id": 614,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28297,
+    "nama_tps": "1"
+  },
+  {
+    "id": 615,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28312,
+    "nama_tps": "1"
+  },
+  {
+    "id": 616,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28312,
+    "nama_tps": "2"
+  },
+  {
+    "id": 617,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28324,
+    "nama_tps": "1"
+  },
+  {
+    "id": 618,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28333,
+    "nama_tps": "1"
+  },
+  {
+    "id": 619,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28341,
+    "nama_tps": "1"
+  },
+  {
+    "id": 620,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28351,
+    "nama_tps": "1"
+  },
+  {
+    "id": 621,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28379,
+    "nama_tps": "1"
+  },
+  {
+    "id": 622,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28388,
+    "nama_tps": "1"
+  },
+  {
+    "id": 623,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28388,
+    "nama_tps": "2"
+  },
+  {
+    "id": 624,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28419,
+    "nama_tps": "1"
+  },
+  {
+    "id": 625,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28426,
+    "nama_tps": "1"
+  },
+  {
+    "id": 626,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28435,
+    "nama_tps": "1"
+  },
+  {
+    "id": 627,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28446,
+    "nama_tps": "1"
+  },
+  {
+    "id": 628,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28452,
+    "nama_tps": "1"
+  },
+  {
+    "id": 629,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28458,
+    "nama_tps": "1"
+  },
+  {
+    "id": 630,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28467,
+    "nama_tps": "1"
+  },
+  {
+    "id": 631,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28483,
+    "nama_tps": "1"
+  },
+  {
+    "id": 632,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28491,
+    "nama_tps": "1"
+  },
+  {
+    "id": 633,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28499,
+    "nama_tps": "1"
+  },
+  {
+    "id": 634,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28511,
+    "nama_tps": "1"
+  },
+  {
+    "id": 635,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28524,
+    "nama_tps": "1"
+  },
+  {
+    "id": 636,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28537,
+    "nama_tps": "1"
+  },
+  {
+    "id": 637,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28546,
+    "nama_tps": "1"
+  },
+  {
+    "id": 638,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28550,
+    "nama_tps": "1"
+  },
+  {
+    "id": 639,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28550,
+    "nama_tps": "2"
+  },
+  {
+    "id": 640,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28584,
+    "nama_tps": "1"
+  },
+  {
+    "id": 641,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28596,
+    "nama_tps": "1"
+  },
+  {
+    "id": 642,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28596,
+    "nama_tps": "2"
+  },
+  {
+    "id": 643,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28608,
+    "nama_tps": "1"
+  },
+  {
+    "id": 644,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28620,
+    "nama_tps": "1"
+  },
+  {
+    "id": 645,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28631,
+    "nama_tps": "1"
+  },
+  {
+    "id": 646,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28641,
+    "nama_tps": "1"
+  },
+  {
+    "id": 647,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28662,
+    "nama_tps": "1"
+  },
+  {
+    "id": 648,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28672,
+    "nama_tps": "1"
+  },
+  {
+    "id": 649,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28672,
+    "nama_tps": "2"
+  },
+  {
+    "id": 650,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28681,
+    "nama_tps": "1"
+  },
+  {
+    "id": 651,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28688,
+    "nama_tps": "1"
+  },
+  {
+    "id": 652,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28701,
+    "nama_tps": "1"
+  },
+  {
+    "id": 653,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28707,
+    "nama_tps": "1"
+  },
+  {
+    "id": 654,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28707,
+    "nama_tps": "2"
+  },
+  {
+    "id": 655,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28720,
+    "nama_tps": "1"
+  },
+  {
+    "id": 656,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28733,
+    "nama_tps": "1"
+  },
+  {
+    "id": 657,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28741,
+    "nama_tps": "1"
+  },
+  {
+    "id": 658,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28755,
+    "nama_tps": "1"
+  },
+  {
+    "id": 659,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28768,
+    "nama_tps": "1"
+  },
+  {
+    "id": 660,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28783,
+    "nama_tps": "1"
+  },
+  {
+    "id": 661,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28801,
+    "nama_tps": "1"
+  },
+  {
+    "id": 662,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28808,
+    "nama_tps": "1"
+  },
+  {
+    "id": 663,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28820,
+    "nama_tps": "1"
+  },
+  {
+    "id": 664,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28829,
+    "nama_tps": "1"
+  },
+  {
+    "id": 665,
+    "kecamatan_id": 4446,
+    "kelurahan_id": 28838,
+    "nama_tps": "1"
+  },
+  {
+    "id": 666,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27853,
+    "nama_tps": "1"
+  },
+  {
+    "id": 667,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27861,
+    "nama_tps": "1"
+  },
+  {
+    "id": 668,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27861,
+    "nama_tps": "2"
+  },
+  {
+    "id": 669,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27864,
+    "nama_tps": "1"
+  },
+  {
+    "id": 670,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27872,
+    "nama_tps": "1"
+  },
+  {
+    "id": 671,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27881,
+    "nama_tps": "1"
+  },
+  {
+    "id": 672,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27888,
+    "nama_tps": "1"
+  },
+  {
+    "id": 673,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27899,
+    "nama_tps": "1"
+  },
+  {
+    "id": 674,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27909,
+    "nama_tps": "1"
+  },
+  {
+    "id": 675,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27918,
+    "nama_tps": "1"
+  },
+  {
+    "id": 676,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27927,
+    "nama_tps": "1"
+  },
+  {
+    "id": 677,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27927,
+    "nama_tps": "2"
+  },
+  {
+    "id": 678,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27937,
+    "nama_tps": "1"
+  },
+  {
+    "id": 679,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27946,
+    "nama_tps": "1"
+  },
+  {
+    "id": 680,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27955,
+    "nama_tps": "1"
+  },
+  {
+    "id": 681,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27955,
+    "nama_tps": "2"
+  },
+  {
+    "id": 682,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27964,
+    "nama_tps": "1"
+  },
+  {
+    "id": 683,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27985,
+    "nama_tps": "1"
+  },
+  {
+    "id": 684,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27992,
+    "nama_tps": "1"
+  },
+  {
+    "id": 685,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27992,
+    "nama_tps": "2"
+  },
+  {
+    "id": 686,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 27999,
+    "nama_tps": "1"
+  },
+  {
+    "id": 687,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 28048,
+    "nama_tps": "1"
+  },
+  {
+    "id": 688,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 28072,
+    "nama_tps": "1"
+  },
+  {
+    "id": 689,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 28077,
+    "nama_tps": "1"
+  },
+  {
+    "id": 690,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 28081,
+    "nama_tps": "1"
+  },
+  {
+    "id": 691,
+    "kecamatan_id": 4507,
+    "kelurahan_id": 28093,
+    "nama_tps": "1"
+  },
+  {
+    "id": 692,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27596,
+    "nama_tps": "1"
+  },
+  {
+    "id": 693,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27606,
+    "nama_tps": "1"
+  },
+  {
+    "id": 694,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27613,
+    "nama_tps": "1"
+  },
+  {
+    "id": 695,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27626,
+    "nama_tps": "1"
+  },
+  {
+    "id": 696,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27626,
+    "nama_tps": "2"
+  },
+  {
+    "id": 697,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27638,
+    "nama_tps": "1"
+  },
+  {
+    "id": 698,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27651,
+    "nama_tps": "1"
+  },
+  {
+    "id": 699,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27651,
+    "nama_tps": "2"
+  },
+  {
+    "id": 700,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27664,
+    "nama_tps": "1"
+  },
+  {
+    "id": 701,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27664,
+    "nama_tps": "2"
+  },
+  {
+    "id": 702,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27664,
+    "nama_tps": "3"
+  },
+  {
+    "id": 703,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27676,
+    "nama_tps": "1"
+  },
+  {
+    "id": 704,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27676,
+    "nama_tps": "2"
+  },
+  {
+    "id": 705,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27676,
+    "nama_tps": "3"
+  },
+  {
+    "id": 706,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27689,
+    "nama_tps": "1"
+  },
+  {
+    "id": 707,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27703,
+    "nama_tps": "1"
+  },
+  {
+    "id": 708,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27717,
+    "nama_tps": "1"
+  },
+  {
+    "id": 709,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27717,
+    "nama_tps": "2"
+  },
+  {
+    "id": 710,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27725,
+    "nama_tps": "1"
+  },
+  {
+    "id": 711,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27736,
+    "nama_tps": "1"
+  },
+  {
+    "id": 712,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27745,
+    "nama_tps": "1"
+  },
+  {
+    "id": 713,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27756,
+    "nama_tps": "1"
+  },
+  {
+    "id": 714,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27769,
+    "nama_tps": "1"
+  },
+  {
+    "id": 715,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27782,
+    "nama_tps": "1"
+  },
+  {
+    "id": 716,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27782,
+    "nama_tps": "2"
+  },
+  {
+    "id": 717,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27782,
+    "nama_tps": "3"
+  },
+  {
+    "id": 718,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27782,
+    "nama_tps": "4"
+  },
+  {
+    "id": 719,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27795,
+    "nama_tps": "1"
+  },
+  {
+    "id": 720,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27795,
+    "nama_tps": "2"
+  },
+  {
+    "id": 721,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27805,
+    "nama_tps": "1"
+  },
+  {
+    "id": 722,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27805,
+    "nama_tps": "2"
+  },
+  {
+    "id": 723,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27815,
+    "nama_tps": "1"
+  },
+  {
+    "id": 724,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27815,
+    "nama_tps": "2"
+  },
+  {
+    "id": 725,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27840,
+    "nama_tps": "1"
+  },
+  {
+    "id": 726,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27850,
+    "nama_tps": "1"
+  },
+  {
+    "id": 727,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27862,
+    "nama_tps": "1"
+  },
+  {
+    "id": 728,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27862,
+    "nama_tps": "2"
+  },
+  {
+    "id": 729,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27871,
+    "nama_tps": "1"
+  },
+  {
+    "id": 730,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27875,
+    "nama_tps": "1"
+  },
+  {
+    "id": 731,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27880,
+    "nama_tps": "1"
+  },
+  {
+    "id": 732,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27883,
+    "nama_tps": "1"
+  },
+  {
+    "id": 733,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27890,
+    "nama_tps": "1"
+  },
+  {
+    "id": 734,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27893,
+    "nama_tps": "1"
+  },
+  {
+    "id": 735,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27901,
+    "nama_tps": "1"
+  },
+  {
+    "id": 736,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27902,
+    "nama_tps": "1"
+  },
+  {
+    "id": 737,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27902,
+    "nama_tps": "2"
+  },
+  {
+    "id": 738,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27910,
+    "nama_tps": "1"
+  },
+  {
+    "id": 739,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27912,
+    "nama_tps": "1"
+  },
+  {
+    "id": 740,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27919,
+    "nama_tps": "1"
+  },
+  {
+    "id": 741,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27919,
+    "nama_tps": "2"
+  },
+  {
+    "id": 742,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27922,
+    "nama_tps": "1"
+  },
+  {
+    "id": 743,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27928,
+    "nama_tps": "1"
+  },
+  {
+    "id": 744,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27928,
+    "nama_tps": "2"
+  },
+  {
+    "id": 745,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27930,
+    "nama_tps": "1"
+  },
+  {
+    "id": 746,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27940,
+    "nama_tps": "1"
+  },
+  {
+    "id": 747,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27941,
+    "nama_tps": "1"
+  },
+  {
+    "id": 748,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27948,
+    "nama_tps": "1"
+  },
+  {
+    "id": 749,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27957,
+    "nama_tps": "1"
+  },
+  {
+    "id": 750,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27967,
+    "nama_tps": "1"
+  },
+  {
+    "id": 751,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27972,
+    "nama_tps": "1"
+  },
+  {
+    "id": 752,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27972,
+    "nama_tps": "2"
+  },
+  {
+    "id": 753,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27979,
+    "nama_tps": "1"
+  },
+  {
+    "id": 754,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27984,
+    "nama_tps": "1"
+  },
+  {
+    "id": 755,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27988,
+    "nama_tps": "1"
+  },
+  {
+    "id": 756,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27988,
+    "nama_tps": "2"
+  },
+  {
+    "id": 757,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27995,
+    "nama_tps": "1"
+  },
+  {
+    "id": 758,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 27995,
+    "nama_tps": "2"
+  },
+  {
+    "id": 759,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28001,
+    "nama_tps": "1"
+  },
+  {
+    "id": 760,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28001,
+    "nama_tps": "2"
+  },
+  {
+    "id": 761,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28007,
+    "nama_tps": "1"
+  },
+  {
+    "id": 762,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28014,
+    "nama_tps": "1"
+  },
+  {
+    "id": 763,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28021,
+    "nama_tps": "1"
+  },
+  {
+    "id": 764,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28023,
+    "nama_tps": "1"
+  },
+  {
+    "id": 765,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28029,
+    "nama_tps": "1"
+  },
+  {
+    "id": 766,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28038,
+    "nama_tps": "1"
+  },
+  {
+    "id": 767,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28038,
+    "nama_tps": "2"
+  },
+  {
+    "id": 768,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28044,
+    "nama_tps": "1"
+  },
+  {
+    "id": 769,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28044,
+    "nama_tps": "2"
+  },
+  {
+    "id": 770,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28049,
+    "nama_tps": "1"
+  },
+  {
+    "id": 771,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28068,
+    "nama_tps": "1"
+  },
+  {
+    "id": 772,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28073,
+    "nama_tps": "1"
+  },
+  {
+    "id": 773,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28079,
+    "nama_tps": "1"
+  },
+  {
+    "id": 774,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28086,
+    "nama_tps": "1"
+  },
+  {
+    "id": 775,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28098,
+    "nama_tps": "1"
+  },
+  {
+    "id": 776,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28106,
+    "nama_tps": "1"
+  },
+  {
+    "id": 777,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28113,
+    "nama_tps": "1"
+  },
+  {
+    "id": 778,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28113,
+    "nama_tps": "2"
+  },
+  {
+    "id": 779,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28120,
+    "nama_tps": "1"
+  },
+  {
+    "id": 780,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28120,
+    "nama_tps": "2"
+  },
+  {
+    "id": 781,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28130,
+    "nama_tps": "1"
+  },
+  {
+    "id": 782,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28137,
+    "nama_tps": "1"
+  },
+  {
+    "id": 783,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28144,
+    "nama_tps": "1"
+  },
+  {
+    "id": 784,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28153,
+    "nama_tps": "1"
+  },
+  {
+    "id": 785,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28153,
+    "nama_tps": "2"
+  },
+  {
+    "id": 786,
+    "kecamatan_id": 4593,
+    "kelurahan_id": 28160,
+    "nama_tps": "1"
+  },
+  {
+    "id": 787,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27687,
+    "nama_tps": "1"
+  },
+  {
+    "id": 788,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27697,
+    "nama_tps": "1"
+  },
+  {
+    "id": 789,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27704,
+    "nama_tps": "1"
+  },
+  {
+    "id": 790,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27713,
+    "nama_tps": "1"
+  },
+  {
+    "id": 791,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27722,
+    "nama_tps": "1"
+  },
+  {
+    "id": 792,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27722,
+    "nama_tps": "2"
+  },
+  {
+    "id": 793,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27731,
+    "nama_tps": "1"
+  },
+  {
+    "id": 794,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27731,
+    "nama_tps": "2"
+  },
+  {
+    "id": 795,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27758,
+    "nama_tps": "1"
+  },
+  {
+    "id": 796,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27767,
+    "nama_tps": "1"
+  },
+  {
+    "id": 797,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27775,
+    "nama_tps": "1"
+  },
+  {
+    "id": 798,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27785,
+    "nama_tps": "1"
+  },
+  {
+    "id": 799,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27794,
+    "nama_tps": "1"
+  },
+  {
+    "id": 800,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27802,
+    "nama_tps": "1"
+  },
+  {
+    "id": 801,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27809,
+    "nama_tps": "1"
+  },
+  {
+    "id": 802,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27816,
+    "nama_tps": "1"
+  },
+  {
+    "id": 803,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27823,
+    "nama_tps": "1"
+  },
+  {
+    "id": 804,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27826,
+    "nama_tps": "1"
+  },
+  {
+    "id": 805,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27831,
+    "nama_tps": "1"
+  },
+  {
+    "id": 806,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27831,
+    "nama_tps": "2"
+  },
+  {
+    "id": 807,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27831,
+    "nama_tps": "3"
+  },
+  {
+    "id": 808,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27831,
+    "nama_tps": "4"
+  },
+  {
+    "id": 809,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27837,
+    "nama_tps": "1"
+  },
+  {
+    "id": 810,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27851,
+    "nama_tps": "1"
+  },
+  {
+    "id": 811,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27857,
+    "nama_tps": "1"
+  },
+  {
+    "id": 812,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27857,
+    "nama_tps": "2"
+  },
+  {
+    "id": 813,
+    "kecamatan_id": 4611,
+    "kelurahan_id": 27866,
+    "nama_tps": "1"
+  },
+  {
+    "id": 814,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27564,
+    "nama_tps": "1"
+  },
+  {
+    "id": 815,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27574,
+    "nama_tps": "1"
+  },
+  {
+    "id": 816,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27580,
+    "nama_tps": "1"
+  },
+  {
+    "id": 817,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27587,
+    "nama_tps": "1"
+  },
+  {
+    "id": 818,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27594,
+    "nama_tps": "1"
+  },
+  {
+    "id": 819,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27603,
+    "nama_tps": "1"
+  },
+  {
+    "id": 820,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27611,
+    "nama_tps": "1"
+  },
+  {
+    "id": 821,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27618,
+    "nama_tps": "1"
+  },
+  {
+    "id": 822,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27623,
+    "nama_tps": "1"
+  },
+  {
+    "id": 823,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27627,
+    "nama_tps": "1"
+  },
+  {
+    "id": 824,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27627,
+    "nama_tps": "2"
+  },
+  {
+    "id": 825,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27631,
+    "nama_tps": "1"
+  },
+  {
+    "id": 826,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27636,
+    "nama_tps": "1"
+  },
+  {
+    "id": 827,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27644,
+    "nama_tps": "1"
+  },
+  {
+    "id": 828,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27652,
+    "nama_tps": "1"
+  },
+  {
+    "id": 829,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27652,
+    "nama_tps": "2"
+  },
+  {
+    "id": 830,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27659,
+    "nama_tps": "1"
+  },
+  {
+    "id": 831,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27668,
+    "nama_tps": "1"
+  },
+  {
+    "id": 832,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 27677,
+    "nama_tps": "1"
+  },
+  {
+    "id": 833,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 28188,
+    "nama_tps": "1"
+  },
+  {
+    "id": 834,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 28202,
+    "nama_tps": "1"
+  },
+  {
+    "id": 835,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 28202,
+    "nama_tps": "2"
+  },
+  {
+    "id": 836,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 28230,
+    "nama_tps": "1"
+  },
+  {
+    "id": 837,
+    "kecamatan_id": 4623,
+    "kelurahan_id": 28244,
+    "nama_tps": "1"
+  },
+  {
+    "id": 838,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21482,
+    "nama_tps": "1"
+  },
+  {
+    "id": 839,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21495,
+    "nama_tps": "1"
+  },
+  {
+    "id": 840,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21495,
+    "nama_tps": "2"
+  },
+  {
+    "id": 841,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21512,
+    "nama_tps": "1"
+  },
+  {
+    "id": 842,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21523,
+    "nama_tps": "1"
+  },
+  {
+    "id": 843,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21536,
+    "nama_tps": "1"
+  },
+  {
+    "id": 844,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21545,
+    "nama_tps": "1"
+  },
+  {
+    "id": 845,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21557,
+    "nama_tps": "1"
+  },
+  {
+    "id": 846,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21569,
+    "nama_tps": "1"
+  },
+  {
+    "id": 847,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21569,
+    "nama_tps": "2"
+  },
+  {
+    "id": 848,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21676,
+    "nama_tps": "1"
+  },
+  {
+    "id": 849,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21689,
+    "nama_tps": "1"
+  },
+  {
+    "id": 850,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21702,
+    "nama_tps": "1"
+  },
+  {
+    "id": 851,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21715,
+    "nama_tps": "1"
+  },
+  {
+    "id": 852,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21730,
+    "nama_tps": "1"
+  },
+  {
+    "id": 853,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21736,
+    "nama_tps": "1"
+  },
+  {
+    "id": 854,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21743,
+    "nama_tps": "1"
+  },
+  {
+    "id": 855,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21751,
+    "nama_tps": "1"
+  },
+  {
+    "id": 856,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21763,
+    "nama_tps": "1"
+  },
+  {
+    "id": 857,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21785,
+    "nama_tps": "1"
+  },
+  {
+    "id": 858,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21796,
+    "nama_tps": "1"
+  },
+  {
+    "id": 859,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21811,
+    "nama_tps": "1"
+  },
+  {
+    "id": 860,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21828,
+    "nama_tps": "1"
+  },
+  {
+    "id": 861,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21842,
+    "nama_tps": "1"
+  },
+  {
+    "id": 862,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21852,
+    "nama_tps": "1"
+  },
+  {
+    "id": 863,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21861,
+    "nama_tps": "1"
+  },
+  {
+    "id": 864,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21869,
+    "nama_tps": "1"
+  },
+  {
+    "id": 865,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21878,
+    "nama_tps": "1"
+  },
+  {
+    "id": 866,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21892,
+    "nama_tps": "1"
+  },
+  {
+    "id": 867,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21892,
+    "nama_tps": "2"
+  },
+  {
+    "id": 868,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21909,
+    "nama_tps": "1"
+  },
+  {
+    "id": 869,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21918,
+    "nama_tps": "1"
+  },
+  {
+    "id": 870,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21949,
+    "nama_tps": "1"
+  },
+  {
+    "id": 871,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21949,
+    "nama_tps": "2"
+  },
+  {
+    "id": 872,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21989,
+    "nama_tps": "1"
+  },
+  {
+    "id": 873,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 21989,
+    "nama_tps": "2"
+  },
+  {
+    "id": 874,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22007,
+    "nama_tps": "1"
+  },
+  {
+    "id": 875,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22021,
+    "nama_tps": "1"
+  },
+  {
+    "id": 876,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22039,
+    "nama_tps": "1"
+  },
+  {
+    "id": 877,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22052,
+    "nama_tps": "1"
+  },
+  {
+    "id": 878,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22065,
+    "nama_tps": "1"
+  },
+  {
+    "id": 879,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22081,
+    "nama_tps": "1"
+  },
+  {
+    "id": 880,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22096,
+    "nama_tps": "1"
+  },
+  {
+    "id": 881,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22096,
+    "nama_tps": "2"
+  },
+  {
+    "id": 882,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22105,
+    "nama_tps": "1"
+  },
+  {
+    "id": 883,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22113,
+    "nama_tps": "1"
+  },
+  {
+    "id": 884,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22119,
+    "nama_tps": "1"
+  },
+  {
+    "id": 885,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22127,
+    "nama_tps": "1"
+  },
+  {
+    "id": 886,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22143,
+    "nama_tps": "1"
+  },
+  {
+    "id": 887,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22155,
+    "nama_tps": "1"
+  },
+  {
+    "id": 888,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22168,
+    "nama_tps": "1"
+  },
+  {
+    "id": 889,
+    "kecamatan_id": 5073,
+    "kelurahan_id": 22174,
+    "nama_tps": "1"
+  },
+  {
+    "id": 890,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16244,
+    "nama_tps": "1"
+  },
+  {
+    "id": 891,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16249,
+    "nama_tps": "1"
+  },
+  {
+    "id": 892,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16249,
+    "nama_tps": "2"
+  },
+  {
+    "id": 893,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16253,
+    "nama_tps": "1"
+  },
+  {
+    "id": 894,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16257,
+    "nama_tps": "1"
+  },
+  {
+    "id": 895,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16260,
+    "nama_tps": "1"
+  },
+  {
+    "id": 896,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16260,
+    "nama_tps": "2"
+  },
+  {
+    "id": 897,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16263,
+    "nama_tps": "1"
+  },
+  {
+    "id": 898,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16267,
+    "nama_tps": "1"
+  },
+  {
+    "id": 899,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16270,
+    "nama_tps": "1"
+  },
+  {
+    "id": 900,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16270,
+    "nama_tps": "2"
+  },
+  {
+    "id": 901,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16274,
+    "nama_tps": "1"
+  },
+  {
+    "id": 902,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16274,
+    "nama_tps": "2"
+  },
+  {
+    "id": 903,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16278,
+    "nama_tps": "1"
+  },
+  {
+    "id": 904,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16283,
+    "nama_tps": "1"
+  },
+  {
+    "id": 905,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16286,
+    "nama_tps": "1"
+  },
+  {
+    "id": 906,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16290,
+    "nama_tps": "1"
+  },
+  {
+    "id": 907,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16294,
+    "nama_tps": "1"
+  },
+  {
+    "id": 908,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16299,
+    "nama_tps": "1"
+  },
+  {
+    "id": 909,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16299,
+    "nama_tps": "2"
+  },
+  {
+    "id": 910,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16303,
+    "nama_tps": "1"
+  },
+  {
+    "id": 911,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16308,
+    "nama_tps": "1"
+  },
+  {
+    "id": 912,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16312,
+    "nama_tps": "1"
+  },
+  {
+    "id": 913,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16318,
+    "nama_tps": "1"
+  },
+  {
+    "id": 914,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16322,
+    "nama_tps": "1"
+  },
+  {
+    "id": 915,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16324,
+    "nama_tps": "1"
+  },
+  {
+    "id": 916,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16327,
+    "nama_tps": "1"
+  },
+  {
+    "id": 917,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16327,
+    "nama_tps": "2"
+  },
+  {
+    "id": 918,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16330,
+    "nama_tps": "1"
+  },
+  {
+    "id": 919,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16334,
+    "nama_tps": "1"
+  },
+  {
+    "id": 920,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16337,
+    "nama_tps": "1"
+  },
+  {
+    "id": 921,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16340,
+    "nama_tps": "1"
+  },
+  {
+    "id": 922,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16345,
+    "nama_tps": "1"
+  },
+  {
+    "id": 923,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16347,
+    "nama_tps": "1"
+  },
+  {
+    "id": 924,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16347,
+    "nama_tps": "2"
+  },
+  {
+    "id": 925,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16350,
+    "nama_tps": "1"
+  },
+  {
+    "id": 926,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16353,
+    "nama_tps": "1"
+  },
+  {
+    "id": 927,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16353,
+    "nama_tps": "2"
+  },
+  {
+    "id": 928,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16357,
+    "nama_tps": "1"
+  },
+  {
+    "id": 929,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16362,
+    "nama_tps": "1"
+  },
+  {
+    "id": 930,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16366,
+    "nama_tps": "1"
+  },
+  {
+    "id": 931,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16366,
+    "nama_tps": "2"
+  },
+  {
+    "id": 932,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16369,
+    "nama_tps": "1"
+  },
+  {
+    "id": 933,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16373,
+    "nama_tps": "1"
+  },
+  {
+    "id": 934,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16376,
+    "nama_tps": "1"
+  },
+  {
+    "id": 935,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16381,
+    "nama_tps": "1"
+  },
+  {
+    "id": 936,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16385,
+    "nama_tps": "1"
+  },
+  {
+    "id": 937,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16385,
+    "nama_tps": "2"
+  },
+  {
+    "id": 938,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16388,
+    "nama_tps": "1"
+  },
+  {
+    "id": 939,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16391,
+    "nama_tps": "1"
+  },
+  {
+    "id": 940,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16394,
+    "nama_tps": "1"
+  },
+  {
+    "id": 941,
+    "kecamatan_id": 6171,
+    "kelurahan_id": 16394,
+    "nama_tps": "2"
+  }
+]

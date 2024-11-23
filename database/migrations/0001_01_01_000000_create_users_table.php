@@ -3,6 +3,8 @@
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Hash;
 
 return new class extends Migration
 {
@@ -19,7 +21,9 @@ return new class extends Migration
             $table->string('password');
             $table->rememberToken();
             $table->enum('role', ['super_admin', 'admin', 'operator', 'saksi'])->default('saksi'); 
-            $table->string('avatar')->default('avatar.jpg'); 
+            $table->json('custom_fields')->nullable();
+            $table->string('avatar_url')->default('avatars/default.jpg'); 
+            $table->string('created_by'); 
             $table->timestamps();
         });
         
@@ -38,7 +42,22 @@ return new class extends Migration
             $table->longText('payload');
             $table->integer('last_activity')->index();
         });
-    }
+
+        /**
+         * Insert data pengguna secara otomatis
+         */
+        DB::table('users')->insert([
+            [
+                'name' => 'Super Admin',
+                'email' => 'superadmin@example.com',
+                'password' => Hash::make('superadmin@example.com'), // Gunakan password yang aman
+                'role' => 'super_admin',
+                'avatar_url' => 'avatars/default.jpg',
+                'created_at' => now(),
+                'created_by' => 1,
+            ]
+        ]);        
+    }    
 
     /**
      * Reverse the migrations.

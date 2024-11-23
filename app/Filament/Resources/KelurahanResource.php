@@ -24,15 +24,15 @@ class KelurahanResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-building-office';
 
-    protected static ?string $navigationLabel = 'Kelurahan'; 
+    protected static ?string $navigationLabel = 'Kelurahan / Gampong'; 
 
-    protected static ?string $modelLabel = 'Data Kelurahan';    
+    protected static ?string $modelLabel = 'Data Kelurahan / Gampong';    
        
     protected static ?string $slug = 'data-kelurahan';   
 
     protected static ?string $navigationGroup = 'Lokasi TPS';    
 
-    protected static ?string $navigationBadgeTooltip = 'Jumlah Kelurahan';
+    protected static ?string $navigationBadgeTooltip = 'Jumlah Kelurahan/Gampong';
 
     
     public static function getNavigationBadge(): ?string
@@ -70,8 +70,7 @@ class KelurahanResource extends Resource
                 TextColumn::make('nama_kelurahan')
                 ->label('Nama Kelurahan')
                 ->numeric()
-                ->sortable()
-                ->searchable(),
+                ->sortable(),
 
                 TextColumn::make('kecamatan.nama_kecamatan')
                 ->label('Nama Kecamatan')
@@ -92,11 +91,11 @@ class KelurahanResource extends Resource
                 ]),
             ])
             ->headerActions([
-                ImportAction::make()
-                    ->label('Import Data Desa / Gampong')
-                    ->importer(KelurahanImporter::class)
-                    ->label('Impor')
-                    ->icon('heroicon-o-document-arrow-down')
+                // ImportAction::make()
+                //     ->label('Import Data Desa / Gampong')
+                //     ->importer(KelurahanImporter::class)
+                //     ->label('Impor')
+                //     ->icon('heroicon-o-document-arrow-down')
             ]);
     }
 

@@ -21,12 +21,17 @@ return new class extends Migration
             $table->bigInteger('paslon_2_vote');
             $table->bigInteger('paslon_3_vote');
             $table->string('foto_c1_plano');
+            $table->unsignedBigInteger('verified_by')->nullable();
+            $table->unsignedBigInteger('created_by')->nullable();
+            $table->timestamp('verified_at')->nullable();
             $table->timestamps();
     
             // Define foreign keys
             $table->foreign('kecamatan_id')->references('id')->on('kecamatans')->onDelete('cascade');
             $table->foreign('kelurahan_id')->references('id')->on('kelurahans')->onDelete('cascade');
             $table->foreign('tps_id')->references('id')->on('tps')->onDelete('cascade');
+            $table->foreign('verified_by')->references('id')->on('users')->onDelete('set null');            
+            $table->foreign('created_by')->references('id')->on('users')->onDelete('set null');            
     
             // Add unique constraint
             $table->unique(['kecamatan_id', 'kelurahan_id', 'tps_id']);           
