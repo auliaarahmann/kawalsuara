@@ -43,11 +43,22 @@ class VoteResource extends Resource
     {
         $user = auth::user();
     
+        // Hanya tampilkan badge jika user bukan saksi
         if ($user->role === 'saksi') {
             return null;
-        }                
-        return static::getModel()::where('status','unverified')->count();
-    } 
+        }   
+    
+        // Hitung data dengan status 'unverified'
+        $unverifiedCount = static::getModel()::where('status', 'unverified')->count();
+    
+        // Jika tidak ada data 'unverified', jangan tampilkan badge
+        if ($unverifiedCount === 0) {
+            return null;
+        }
+    
+        return (string) $unverifiedCount;
+    }
+    
 
     public static function getNavigationBadgeColor(): ?string
     {
